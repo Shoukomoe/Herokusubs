@@ -1,2 +1,2 @@
-# Herokusubs
-Subtitles for [Heroku] http://avrore.blogspot.com/
+# Herokusubs's subs
+Subtitles for [heroku.moe](http://avrore.blogspot.com/)
