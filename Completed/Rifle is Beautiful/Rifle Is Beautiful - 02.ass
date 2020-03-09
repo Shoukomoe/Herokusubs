@@ -1,0 +1,846 @@
+﻿[Script Info]
+Title: العربية - هيروكو
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,cairo,54,&H00FFFFFF,&HFB0000FF,&H09000000,&HFF000000,-1,0,0,0,133.333,100,0,0,1,3,3,2,20,20,15,1
+Style: background,cairo,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: explaining,cairo,46,&H00FFFFFF,&H000000FF,&H00311600,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: small,Cairo Black,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Graphics]
+filename: Captsssure.JPG
+`^D`Y!!13E:*2A!"!1%!9!"A!!$`Y2$Y28BJ:A!!45U!+A!!!!A!"!%\!!)!!!!0!!!)3I>J!!1!!!!"
+!!!)7JS>!!%!!!!?!!!1UOI=!!=!!!A-!!!!0A!!!!!=[A!!!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!&FB=X.J=C"-
+97>S;7.I!!!!":!$!!)!!!!5!!!1K*!%!!)!!!!5!!!1P*+2!!)!!!!$-$)!!*+3!!)!!!!$-$)!!/I=
+!!=!!!A-!!!)H!!!!!!=[A!!!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$)Q-4E[-4![-D)A-4A[.4![-D9!-D!R/4IR
+-$IS-C!R/$IV-$IS.A!!!&E!91"T!(-!;1"S!#!!4!"B!'=!=A"J!'-!;!!!!0`B#S&I>(2Q/C]P<H-O
+972P9G5O9W^N,XBB=#]R,D!P!$Q`?("B9WNF>#"C:7>J<DUH\\O`*S"J:$UH6T6.-%VQ1W6I;5B[=G64
+?EZ59XJL9TFE*T]_$1I]?$JY<8"N:82B)(BN<'ZT/HA^)G&E<W*F/GZT/GVF>'%P)DY]=G2G/F*%2C"Y
+<7RO=TJS:'9^)GBU>(![,S^X>X=O>T-O<X*H,T%Z/4EP-$)P-D)N=G2G,8.Z<H2B?#VO=S-C0DRS:'9[
+2'6T9X*J=(2J<WYA=G2G/G&C<X6U03*V>7FE/G:B:D6C:'1V,7*B-W1N-4&E93VB:$-R,71T-W1X.4%Y
+-G9R9C)A?'VM<H-[:'-^)GBU>(![,S^Q>8*M,G^S:S^E9S^F<'6N:7ZU=S]R,D%P)C]_0(*E:DJ%:8.D
+=GFQ>'FP<C"S:'9[97*P>81^)H6V;71[:G&G.7*E:$5N9G%T:#UR-72B,7&E-T%N:$-T:$=V-4AS:D&C
+)C"Y<7RO=TJY<8!^)GBU>(![,S^O=SZB:'^C:3ZD<WUP?'&Q,T%O-#]C0DRY<8![1X*F982F2'&U:4YS
+-$%Z,4%Q,4)S6$%Y/D5Q/D)W,D!R.DQP?'VQ/E.S:7&U:52B>'5_0#^S:'9[2'6T9X*J=(2J<WY_0(*E
+:DJ%:8.D=GFQ>'FP<C"S:'9[97*P>81^)H6V;71[:G&G.7*E:$5N9G%T:#UR-72B,7&E-T%N:$-T:$=V
+-4AS:D&C)C"Y<7RO=TJE9TUC;(2U=$IP,X"V=GQO<X*H,W2D,W6M:7VF<H2T,T%O-3]C0DRE9TJD=G6B
+>'^S0DRS:'9[5W6R)(BN<'ZT/H*E:DUC;(2U=$IP,X>X>SZX-SZP=G=P-4EZ/3]Q-C]S-CVS:'9N=XFO
+>'&Y,7ZT)S)_0(*E:DJM;4Z:98.T;8)A4'&H=GFD;$QP=G2G/GRJ0DQP=G2G/F.F=4Y.#AE*#4QP:'-[
+9X*F982P=DY],X*E:DJ%:8.D=GFQ>'FP<DY],X*E:DJ32%9_0#^Y/HBN='VF>'%_$1IA)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A#C!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)!IA)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A#C!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)!IA)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A#C!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)!IA
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A#C!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)!IA)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A#C!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)!IA)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A#C!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)!IA)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A#C!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A
+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!+)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)#!A)$Q`
+?("B9WNF>#"F<G1^*X=H0T\`WQ"$!!=&"19&"!='"19)"Q=)#B%,#AE*#B50%!Q2'"5;'2A6'"=<(C=B
+'RUF(2=9)CYC*3AJ+SQL'C!P-S]K-C=K+SL`WQ"$!1=)#!I*#B1,#R1K("A=+CIK+CIK+CIK+CIK+CIK
++CIK+CIK+CIK+CIK+CIK+CIK+CIK+CIK+CIK+CIK+CIK+CL`Q!!2#!#<!`E$!3)!!B%"!R%"`]1!(Q!!
+!15"!1%"!1%!!!!!!!!!!!%#!Q1&"A=)#1I,`]1!N2!!!A%$!Q)%!Q5&"!1!!!&^!1)$!!12"2)B-5%'
+%V&B"S*R&$+"E;%))U+RQ263U@!E-W*SAAE+&B=9'2IF*C=I+3IU.49X/$E[1U2&2E>)35J46&676VB:
+7G.E:7:H;'FK=X2V>H>Y?8K$B)7'BYC*CJ+4F*77FZC:GK+DJ+7GJ[CJKL+TN,7WN\CZOM,$R-8'R]D*
+SN,4V.87V^D:WO(CY_4FZO@I[?LR]P0U^@<X_0H[`]1!(Q%!!Q%"!1%"!1%"!1!!!!!!!!%#!Q1&"A=)
+#1I,`]1!N2%!!A%#"!1$"!=&"!1!!1*X!!%#!R%%"3%R"B*"51>B=2-C-I%)&%+2I<("#3-T5P!69H,2
+#B9E./%F]2=9'2IG*SAJ+D5W.TAZ/E.%25:(3%F+5V266F>976JD:'6G:WBJ;H.U>8:X?(F[AI/%B9;(
+C)G+EJ/5F:;8G*G;IK/EJ;;HK+GKML/UN<;XO,G[QM0%R=<(S-H+UN05V><8W.H;YO0EZ?<H[/HK]P0U
+^@<X_0H[`^I!$!-"!!)2!R%!0Q$S(%Z'>];_WQH([U<:`Q$HJ(`X\0]!]65N&!%7W@]!Z[2`^_T`!0&5
+<:`_?E@`!(\0`Q!65N,M<:PWH:H'\('@3A#(<0]!]^)`_`:`_+IWT`]!030`!,^H`Q#+KQ]%M;"J)H64
+D":3!=^+:4;;>G*.09CWT`]!030`!,^H`Q#+IWT`!0030`PW@`CKMR144EC#*Z#/OR3=@F4:)XC=J+D)
+Q[KQQ22SOV\;"T+^L[E'W@]!Z[2`^_T`!0&5<:`_?E@`!(\0`Q!65N+5:66G5A.SJ)[UBE/W@`HJ(`X\
+0`R6'W@`!*[2`Q$@M`]!R64-D)1(5K3-D)RE5/D2M6>3L$K#-'H:I6U1\:`_?E@`!(\0`Q!62NH`!/?E
+@`@M`Q$R63U5BE7W@`HJ(`X\0`R6'W@`!*[2`Q$@M`]!R63U5!2<:`]!HJ(`!._T`Q$&5<:`_?E@`@M`
+`&6,21"&NH`Z[2`^_T`]62NH`Q#?E@]!X\0`!-65N&!%7W@`!*[2`Q$@M`]!R6'W@`HJ(`X\0`R63U5!
+2<:`_?E@`@M``&5<:`]!HJ(`!._T`Q$&6,21"&NH`Q#?E@]!X\0`!-62NH`Z[2`^_T`]65N&!%7W@`HJ
+(`X\0`R6'W@`!*[2`Q$@M`]!R63U5!2<:`]!HJ(`!._T`Q$&5<:`_?E@`@M``&6,21"&NH`Z[2`^_T`]
+62NH`Q#?E@]!X\0`!-65N&!%7W@`!*[2`Q$@M`]!R6'W@`HJ(`X\0`R63U5!2<:`_?E@`@M``&5<:`]!
+HJ(`!._T`Q$&6,21"&NH`Q#?E@]!X\0`!-62NH`Z[2`^_T`]65N&!%7W@`HJ(`X\0`R6'W@`!*[2`Q$@
+M`]!R63U5!2<:`]!HJ(`!._T`Q$&5<:`_?E@`@M``&6,21"&NH`Z[2`^_T`]62NH`Q#?E@]!X\0`!-65
+N&!%7W@`!*[2`Q$@M`]!R6'W@`HJ(`X\0`R63U5!2<:`_?E@`@M``&5<:`]!HJ(`!._T`Q$&6,21"&NH
+`Q#?E@]!X\0`!-62NH`Z[2`^_T`]65N&!%7W@`HJ(`X\0`R6'W@`!*[2`Q$@M`]!R63U5!2<:`]!HJ(`
+!._T`Q$&5<:`_?E@`@M``&6,21"&NH`Z[2`^_T`]62NH`Q#?E@]!X\0`!-65N&!%7W@`!*[2`Q$@M`]!
+R6'W@`HJ(`X\0`R63U5!2<:`_?E@`@M``&5<:`]!HJ(`!._T`Q$&6,21"&NH`Q#?E@]!X\0`!-62NH`Z
+[2`^_T`]65N&!%7W@`HJ(`X\0`R6'W@`!*[2`Q$@M`]!R63U5!2<:`]!HJ(`!._T`Q$&5<:`_?E@`@M`
+`&6,21"&NH`Z[2`^_T`]62NH`Q#?E@]!X\0`!-65N&!%7W@`!*[2`Q$@M`]!R6'W@`HJ(`X\0`R63U5!
+2<:`_?E@`@M``&5<:`]!HJ(`!._T`Q$&6,21"&NH`Q#?E@]!X\0`!-62NH`Z[2`^_T`]65N&!%7W@`HJ
+(`X\0`R6'W@`!*[2`Q$@M`]!R63U5!2<:`]!HJ(`!._T`Q$&5<:`_?E@`@M``&6,21"&NH`Z[2`^_T`]
+62NH`Q#?E@]!X\0`!-65N&!%7W@`!*[2`Q$@M`]!R6'W@`HJ(`X\0`R63U5!2<:`_?E@`@M``&5<:`]!
+HJ(`!._T`Q$&6,21"&NH`Q#?E@]!X\0`!-62NH`Z[2`^_T`]65N&!%7W@`HJ(`X\0`R6'W@`!*[2`Q$@
+M`]!R63U5!2<:`]!HJ(`!._T`Q$&5<:`_?E@`@M``&6,21"&NH`Z[2`^_T`]62NH`Q#?E@]!X\0`!-65
+N&!%7W@`!*[2`Q$@M`]!R6'W@`HJ(`X\0`R63U5!2<:`_?E@`@M``&5<:`]!HJ(`!._T`Q$&6,21"&NH
+`Q#?E@]!X\0`!-62NH`Z[2`^_T`]65N&!%7W@`HJ(`X\0`R6'W@`!*[2`Q$@M`]!R63U5!2<:`]!HJ(`
+!._T`Q$&5<:`_?E@`@M``&6,21"&NH`Z[2`^_T`]62NH`Q#?E@]!X\0`!-65N&!%7W@`!*[2`Q$@M`]!
+R6'W@`HJ(`X\0`R63U5!2<:`_?E@`@M``&5<:`]!HJ(`!._T`Q$&6,21"&NH`Q#?E@]!X\0`!-62NH`Z
+[2`^_T`]65N&!%7W@`HJ(`X\0`R6'W@`!*[2`Q$@M`]!R63U5!2<:`]!HJ(`!._T`Q$&5<:`_?E@`@M`
+`&6,21"&NH`Z[2`^_T`]62NH`Q#?E@]!X\0`!-65N&!%7W@`!*[2`Q$@M`]!R6'W@`HJ(`X\0`R63U5!
+2<:`_?E@`@M``&5<:`]!HJ(`!._T`Q$&6,21"&NH`Q#?E@]!X\0`!-62NH`Z[2`^_T`]65N&!%7W@`HJ
+(`X\0`R6'W@`!*[2`Q$@M`]!R63U5!2<:`]!HJ(`!._T`Q$&5<:`_?E@`@M``&6,21"'DM8:(RO8"S/Y
+0`[KEK*@_0O4`=8_<6,1!5555!&;NB^H'H!X2QIO2NSO2H<RHWL+J>\<.GY\-ZWZYT[VP2K_SFT7O:6;
+@N)]N\'T"<'2H7`$30]!;0H']A.]D(0[$"K&,?XEA3Z]B6`>3-9AT<7+E9\Z\Z00;K(WKYQI]_4#`>']
+]>P[GH7^S9:&,_9SK$N#3&3J0=(N83K^*OTD]X]P_$^ZT_RK+\4_3^';4RQ27-L?1S**"'\)DE=FTX/@
+;G4QJ.:_<N/%N6-3M@G5"](0LV0;KEWITP-(BEFBQA4C1Z)(0*\H*.1`;LA4'54S?92APP/\][=]23@O
+J;;L<VV`(95;.4>P7^^`Q`Y*J@:<7/1+]3AM)A0.X\=F13-LU/4XYJQBD:<3VHB"*323WYZ1ANURRV(@
+.:CX>SDFEO*6:A!3()*R4".+#J%DAK#&QRYT[60VGGLWDP[<8O6\#I^Z@HWM;5U-31N/U@H&)IM)\.A<
+BS?O@<];HOI)4?\XA]USTL%6,%&"N8U\]`J7/NT/DBUGE6AOU-')/04[5KX6QL-STS"H'')=`.^;L[V3
+V^XLZ?@_>P,I,W%\XZPT]P]!)<-ADO*%5\AL&1@8"JF&&??^TM7C#CCCE-++++!#CCCA!IIII!O+M<;0
++QD!E76!80*/1XZ$A6.&<Q4;@!(6B)QG)>=$\I"ZYZL/$M%+"DN*S6TQ44B,)KA,)Q#ZQ!X408][[IVI
+J[LJ<]4#6+4W@7`Y'H&J=%EQC,3AK5$NE9<=-]==@L5!MI6U`Q#U3?97]M.N"!Z,&@4WKJ^IHWIPH3<9
+TF"O/&0N[50=TSZ]W;2]D"X/4HP6ON1NJ$P`!-$\PR)^H6P]8<_PH_"=M&33$S1.MULE+\Q+[]$JE^/P
+96*0(#WHSMI2@,3-KPF\76DD/4DH0*[GMZ*Z9E:)Z828Y:69A.^;'GF?.9XE>E8\KFC10I+3LR60FN`6
+L@]!"`KY/D*TZL^@[`S`KR?DM\<\-DS?;8;"J4N9!=-2DJXRV\?^4S;><RQOT'1J(O9!&14QBRH(_V76
+ZMG!0-<!8;"O04U_F+<C:F)-UB"Y),(HJ`A0SKF8IK,8)$J6'\]RIH3Y@/D67E);8;?2E$9'^/P.0;SN
+*%DF@-;#+-%+?37TTQJ^04];T&O\B.WW?6>W-Y=]YI3[O)S#E]KE,N"$E9(J^+L[R16\1*>'K`N&S3QB
+3UE:'E;70*)0S]"C-\3-YY[A^?-5_TDBEMV6AC`*)T\ITO<!Y)<(1@5@DGM\TZ@*-8GPZ:/3GY\@SI%U
+KQG*:(%<(*1-=(]+S6;H'6V(J9JUJO.H,K7\+UBO97XF`.*)21Q80(<)Q4TUS+M@W6<G2)B+ZE$,PQ#=
+AD0^X!0JS=VG*0,%D,(+[+YQQ6C!XVJ4=4-C+::#K(+!M=,^03H#N255J1O`[`KYZ5[LEWJ72=DN,>U]
+YRX!D*21G1$FC?=YZ((I+E@4)%(F<X]X9T<]D<]LF?G0<VKC,OZ%JE&R+*#-&^ZS2[:JHGS<10-<!8;"
+O\?HUJKN13NS@V`8X#^H6<_,_P[_]V7ML69WD::&7/>E:S-EY8V!Y(Y(&5XMQ.4&OCM6)"!]R?2D0XOG
+0@U\>KB.X=EK4=3EJ^XZT]PUJHH3_>ZPG0ZG=\^RX:_N+J7J3N;/T8X"#F5D?]OHYGE_GWS<8$30'`FB
+1D=D>HH*5:((I/N-FU[&![!S&^EECNE<1&9D"'/P(80=6""K-]%JE*-LE9T)\>-ZRQ2E?RK&LG>E>'F@
+9\<G8>Q4[Y[6=KO(Z>)[`Q"@VZ%KH7PL,_P[_]CIIILA/Q++++!#CCCA!IIII!++++!#CCCA!IIII!++
+++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++
+++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++
+++!#CCCA!IIII!++++!#CCCA#*@_0O4`!(&`GV3V%P]!R^S@\C`T;J;!#CCCA!J65MQ6133=!#EL@]/7
+!9N?3LE!\9]DD0=VV94$3R6;.+05ZM6C)Y;C[MOA7(BT?I?_=JHHSV[`C;U2I7H>\@0PP<`'N%56_AU-
+JQ>'.O20T?J]*8T4&6J=X/VZ,1T`!/QN/`Z^`Q$R^P]!'D_QN/`Z^`]!R^P];U++[0K/%`Z^2`]!!6`E
+=`VX&@]!0S8XMT`\#U\`!*^``(W`RI`M,4P_@@]!]@<`!"LKN%])[TL]A`M_U<S_]MAWI0R.?C[2](\#
++-0L6X*=SE=J!>C$W^4^?0J8GYKLF7'UH#,@:2401Q^0-]2L#=L>WWDR$_QN/`Z^`Q$S)X_.<0BTY=DR
+0>_49797.@]!74N)WV0V[_V?YDY:?&1OX_TGR[_@*H`U+N`2^'M>#M&M^-A%-)*<'333?Z*Z.?*C-UQ,
+JN5+#ZP/+08Q_89V6&\;M_8SETS(50W@\?$4T*JVQNT=K-_5_Z!XU/YVL_'`A8Y>N\,T0%6I<OZ=@[J<
+C25D`&7"*`4_>?L56Y5]6+=/2RD[K+4`!!2\=-0'%_>3@IWWDA:PAHY$FD+JITQE`Q!;8ER)`.C+]\]:
+@!'YU_XEP@#>V*?RI#RN*]?:D`:99$@4!`'PI+CO9[4Y9ED?'6IZ5:(1F76BAA_F.LW@Y__$)>0O\@R,
+J]12,N`+OAIY]T'1XYA(]K]9I'&&&&!"2221!56JP:QT17Q6`,F.O8Q%Y<"9Z*T[$X[6*,9W9DGW&QSR
+R&4N[&M@\8@^+\0K>2\7_`S<`1ZPL-%\0_N<'227CWFJZ\R2X19RSC/1MGU$0==]`J6?ZN6NJ!LG6=K3
+"*&N<0UTU^Q47-K&3+OVJ[IO.;H*W4`-L56J*"%I#S"6WQK'9K$]THA`AJT_&-'F-.PG3<@XD+`S`>!T
+]XP^VPSL2Y7JUV`Y?XZC^P$K5++PH3H_@:*O)>1HS`?"RT`Y]PZU0JG0-;/<?CR\U<<D@VY^PON_6*Y7
+MPMB\?HX+&&;U.P(#"#D7]EIG#T?;"H<A=,HXS//?F*$;21N>C21\<*2%$TA,HZPT'"_.8^5HX`L_N05
+H[T(5SK+HN)%O*B'\OL(\OR!XVTED!KY,'/7&!E[_7JF0G_6AM&!0004UL+HBZV)]U@U]P]!-O>;%(:G
+:26];>%97H_U%1C-/']PZD]WX'-^=_^"UMFU%=Q:8>6TD'&9:$@T`+H^7K^PR1?XJ^SB26X_TQ<,\1MD
+M-%AL&F2A^')0"\^/`7JL_SC-^QU$\4'S\I`,QI"YY)`QJ`6KH,?X^;P^"?XBT7`LJ`G:F&;@^D`!$RD
+T*%$OSESQF4Q-Z!TS0SJM'F@;56YGF+S-6D0EZ((>M(Z2H[U@6;V\7`,S`T1PL.+V\`G:V&4W^NZLS?9
+RD3*3TH'3/X4VS;G3RB9"T=E2/YD2B(S4D*S-]9^MV%;-ZK[8Z'EKM)P5J56IJJ1SE=FRMFE,A+%S!6*
+TEZ^P3E3UCC!H$G3%QMYXJAAZWD)S?Z"KVB;O\7HKP5D[R4[0_P[2HU6@`MX%Z1SZ(GKC%$\Y0/@<D"`
+'L2_;'XFNY\2%E>SXGC-=<O0P=^03KDB:O`.J`Q[8[ESR%6<F`S[8-;CN/ZAN8N6?'7/&$.)&:V<,,RD
+I#@TJ,_S1/:)W66X2RY6=!Z4/;4QMUGVLN_+O//)CWEV9T;+PS;:Z=J8TMIJE$.N[<0<0@D][=EI`M]'
+>)PXT\&+QJF6'-HA$HE$L[UIY?6\3U`L`AI@NEUH(5TK+U<KRNY\G>D+U5#T'.-*O/?`@I08L\5VW7SN
+\@SYYJ'E5O\OA<>]R!!S/"R_N,W$D@H>EA6:33Z?P`$F#CN84YL?7:#]7V:J])J'`!5:)_H)`+HN<C?V
+<9M<0*%B2B%%0-O-E$P^+VDAZ3DT*`V;`Q#*%M1ISMVW`%R[+OXGH.;Q_:_]+B^B]S)JE_I^2Q;G?TBG
+ANAL_8+<=PA*QW#RS4HU(PUL,[N5OU^U8\?&F*<':27H=7&M#\L+]====:9?8EEM0L_.37_G2RX[ASC8
+SJF2U;0!)/=>_@JCN&A[LHS_>N`/XLU:0VGHSX`4_O[-CCA`?.&=:UB2221!5555!&&&&!"2221!5555
+!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555
+!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!%3`Q$(X*`O
+,`.KFK*@_0O4`=8_<6,1!5555!&@2XQZ]';<YE_$'F,>)9ZW;>VH4\SHTH8]2B2R8TD8V@]!"@]!Z*"I
+H`<@`Q"(S6J4K4J35Y/T2H5JQKR=*K[:Q7L@$$R$JUTGWB7`A(33&M(]60/@JGMB@"XC&G#D2\T*`Q#G
+2&@2V'"8PQYBR59WEETQJZ"BW\R<2Y@J8QHV[]E"PT$92?LNP<`PE@YCO_U0Y9[&J/S3?.L[>?>]`+A_
+S^+\+FR8$C-WR?)U=L,MN$NQ_697A\K.XZD)YEC25D5)K^!IQ"4M5O?+RN9]7;,I@S[D@RRS(J'-M`Z$
+GP-D#>36IK\02F/&+.Z/S.A#FJK-'1-!2E:Q;>57,#CCCA!IIIJA=$]<96F_%GKOQS9HA>@9_=C`S9V]
+JV^8`'H`!**$L8`<$`U@(8SB1!5555!&&&&!&F<[27D)60X=2C("[(0[]GJ&V&T]ME=?'259Y/=,U08K
+-5^\":,?"I8D6WA-D)3=NAH*^/A^K@,JE+RSF,A&EDD:1=^7R\@F_N?D''*4OH`6H_FTD=[$?K`K`Q$G
+-O^3XX5JADC]NJ>Z/U`P!/G1@`L67FOP.6%]G.9U"#I#W!4V0*TGJ*^/?!POGC<SX#3<34M*\HDJ^-U[
+WNIXDB-ITPF**S?%5:<]]`J7>K]Z/,`L8`-K0M9R4DU`S`S`!BFOHG71-&!E=/=$U'!0JT5EGJ4S?:E)
+0-1)=$N[`5Z0ZGE?QF#SO.GV!L9"[BO2CHNJ=YF]M.'4N9Z"/-K=%>/O@ZUL9H8@_LL`!$(?BJ?X^7`Y
+!V>3H12\1H\N#A/08P]!8A@E+3,5*99YE65)C<=-DLVY0NS@TJS[:-QB/[-?>[E`*RHHDUZK&L320+$\
+1:'+A:Z'$D*`(_6$?*4PL`6P_!#6&[+X^8`Y)[+^;*CZCDEE,<Q\LEKXLV`HGH1[F>Q"AM]B$+6Q8/"H
+O/?N3(3H$&4=1=3?54FO'^/F-'H3HBHD71FAM:*X0DLDD(9^;3DC)\8&T5*<D9<TS%>2"%QE5+R9NED[
+A^[HN>16.SP('E;RS<&!9AFA"DK4DCCWM&]O2JWD,?1:&DS1Q^$[@L30J`G8UE5<QQNPWJ'8:MH]PV/+
+VD(%13;^,@VZ^/Z-H2EWG/CV&@M][S2RA?7K2QY<<^\*\Z^4H.*&@E,>3/SBJ)`,3-+?/QR[!$0P5AMY
+29)63+32I7E,&X"'$DDD(&6Z./;+328HB!C`VD:<#E^"UZ0UKJ@7)J>>0TP_6XZ)G0M:.L_OH^>S//];
++0;E51@95]T"$908PA^?J&0/IT?<,)!A;6F9]>#JS-@F547EIP0MQ!;1M!-(AZ['J0M*:]*0#["3T/J/
+&!^2D0[=VTR>@JU`L^>4:KDO_P]!QZ*`;MA9&)95QZ@#A]EAA^`?I9LQRR,'U55I5EJZA*WE^?`0YZK4
+_T:!':ZI6D5+>Z*QQ<I2RHN3NJ=K0N]S.G%IC:5**5HJW^KPFR,X`L_L@A3H17C`L_L`!)E%6S97SM;%
+-J2V/=/$[]`SRUK6>1:?0)B+"ASJN/&)'-^=H]=V=;UND;G3#/.^YF=:>Q6#^->O0V.18'HD\3QD?/'0
+Z&8?4SR5((@V_F8\+P43=8WW]^@[]S65J4?K`KZ#.2G%E4H;T2\S#2VX:TH][;VZ)VGNO1I2?-A=HEH_
+P[#J":%7<\F!G6G*"0)6@P$]T_BJLW%E7YSMKKKKT-/?JRD[^@S.:O/)3]GPU`S2;>'`^@VV%_XT&9A1
+P\J'2?059T^=@S&234N*"&%Q'W,/X(5Z/;O47-=M]#7:W+VPZB;5YTAH*08(3FCUZ@*G-EE:(EC3/8,<
+2]W$WT[^K=K6?4;<\`BL_AF5IR3>P[V`Y*3;>HNIY3"ND9M$XZR`B6A[F)W\@&%Y*5A%(Z3IQ#/@3F`M
+S1+T341IA+A/3=.O'12A6)>*<SE53,ZZF>'8EA<2HU`TR2''*6WP,].&_93H1?`^>2L8W[TO1T+:,G1-
+564]P/4S@8CKDTM]=3(!%1)8(VTGJ'MS%E?/7/29V$%I4S#=>-?PL5C[;7G;)X-+OASQ/\A9S=H<CJF\
+;>PO`&`L=;^F$8_NP]A<5GE>WEAB=/`G&7$9X?P8^/F-3^)D#3QR4+L&F$AD<HLD"((NUI_QS:RO4`5_
+>V0X@];OSW3J=22#WD-9;.8=3%NEYTE<O-H0;LD#P,8Z@VJZ@)FSIRU24`N'@\4&/WVHC*)S/#3=]`Z\
+#A;B-M)D5+.K+A9$E9<=$^=U_84X&UU9:%Z:NL%Z2"TE`B_.74J](W%M'DX?1(]X=WX0G%:`,D'+=99F
+XVNP_8_3&+>"*;>CD,>C5D.N#PT&GWA`-@LH)(M-#F7_E6IS&8^X%9BQ?BT_P*JX^H3"G]S7+.!6!E9H
+;WY:'-$UK3#VDCS,R1(]VE5-W"F6/14[:+]V#B8=N>#H+EI[;E5F`*,#U<)AX+CMQ"S>P4P4VV3>:XF#
+R\H>8)Q=:8JXJ^R;))Z'NYD*O!)W%M%!!X()\:Y'@1UMNLZ>D'U>N'Z-0G/ZE/]:*ZW\OG->KOW)CW_<
+<8]`,V@T*ZK,3UX`!+`1TDT27R0:QK][##*53,=L*+7ETA(F>RYT\>+KS,<WLRQ3Q#5MKN)Z9AD=-`,A
+YY"\AVH0#TA\3;\>@]P)UDC)T8OL]P]!-IU6KT;5I%=54IMJFE1&S=S9RD[@J6-7-J[&=?7*!=]%%Y!_
+O?+C7'KR>L@V;Z5;^/3OG6K+HO<5WT<4,'\"CL"3=K2[AA@H6O+W*M,?3'Q_UMZ<?W(/-(D\J'+5+%Z3
+=?X^>,^QF7CIK8@_OJGU6>GMIWPZIY:IYU6QKBW*Z099"*RUT3@W:0ZGT+:WM4TX5Y)_O@ZCD[P5P:+Y
++N#VWSH26Q;<*Z3S33R2KW-&S?JZ!0(((00(.42WNN.;)&+"S!7@@FA=H>E:["2H/0RKIY;IX:["+P"'
+<27B";<\[<T,5RIM<3*(+3IRU'33/`P3_3E5.T*0;2BE#<%$M6Q=]ABO@TI_LTN@V\^,_8E*VYXN[>OP
+T-[CL6V((Z%&R%HFC5-#A*)"(JHHO+EM,%XNP/)UX3K5#H0X13=GI6'=KHMVP`Q,F/L&1ZXN`Q!'R2IK
+X,&"*-9Y77&)BBJ*3180LDH]A0L4DJ=CF`-GBD#OK:9HEE:'-$UJ_QGX\OI?WB<81J56IWGGEXE3X42K
+JG]MI3=PA]A9`Q$L6!NE:%>EFCSKM`FZ*<;0QR_:I>#IEH<_F<`-8NI8N=KU6<<4J&C>D,&OD1/]?4O!
+/->M>RXJ2JLMO9ZI:"O+H;4QQ"/-YZ[>O+8M+F\7`L9@NK?^SH26EW%I28*1+9D,H01?HVZ(ZCEFMT&<
+G93RS+'#.M*/$D0JA^/W;4IV%LN$^J"^3P226_?R8=J2EBD%3-T/4D=Q^MGF#H+;<84_PU(+;CUG5++O
+T7!AM4**)0.7896"Y)RHU`(LUK+TA3?=C5E2ID/_XK1"H!KP9T5V"\M3KR=8*<)LU6IRQL=+DCQ;.4)I
+6EX<'"/#'*TD[CH1[=PWN00-?S1PNC$-4RHPDV&7M./6L>4.YC+P@I:F&7*L.I)ATS2\CKNZ?4OQ?B[9
+0Y%V8L#5*1>J'U:+3OAIL8M<?WNN)`N#\NFOXGH]C#"W:6Y!,->J"061/?Z[VL7_E[9OOX/G#U&TZ6Q`
+GS34%.&#"`ST64FX(/@F01=>45F>,H*56VZU@2\C+X?V6*%C+S/):C]E]?Q:$,E\7-B#!!,V[(';R\3,
+S.2;TO>#-VZ,+I3XG;20,"`B#ABM]DEHJW07H<7Q>,G228:0I&L((?.JNF<;AX^I.<Q#ZO3HSKO3&Q[<
+DEYYTUL.UCXM<\TL;YUM2,"<SS8&W:8X2-!3-$/U$/V>J"0P5XUP`7VRH0U6V.RJ/HR_(T+,8$#SDH7=
+/`H'5NTODTA2^=.N![9**K+YUKRNN#2UC785,29LC[2W<$J)4B3!2D'5TD"_;HM)ZOCN`70M-/E;@*<[
+6<238E$3/[S4%I1Z(SZ=DI/Y.'A[6;;\;3WP`(N>WX\^JQ'90#0PAK-`-/IRV[5>Q-#CL&`*<3XULW%(
+E7_=2I7,(!\EE^4V.;?DW/H87E[H*/::,S'W;7.!-*(BF'3=Z*Z[>/P7DJ=/ND%IL?M),#`UG_,;=)&N
+,4?<TTH,'<)WA]\=-=A$<HX\VK80B`4X4\0&<G%_<<2QTKT'6N_!`GI3>H8D)80'-CHVM+ZRN&>2?;.:
+;AA/FJ$9MN`*:K**(+SY'5**TBDS/QZ(3KNHI]VLKFLJ^X:7FR>8GX^T/UI;X(KQ6FRRTD*Y^+3V'^$"
+ILJ)'UG]]2@:./U2<C+;Z6)^U]P%9Y*!$!AHFMEE!>O#4=N^%UHT<?U#@;@N]^SE6S:'"C6/%)Q=(*'4
+E(]+81$D[+!-E!H(O?V<-OB0J;*@;DZ5^FO4SR(+S`;A2HZ$NTA$K3"DJVJA9V&>B:;*:;D&98,W#WTO
+E]T7E=LA4RI!6/7*+AHAH01%D&:M_E_>K>OMNEGHQ?4ZU]E%`H2'-(FU<,@4'Y`.DJGDL9$"IL6]47>P
+J`C3\N<+0SY)W!23R/"N"[H[V9]/[>98#44[PE1-[7M2S2C2`Q#,A`QA%_H)I7KO$U-+CN\2^-N)<_]<
+8E`U;T=1S+')S\.N\=]!-X`!;6.*AUO(6,D59@N2MZR<22-R68=\PG<;1=980"'=CDT$S-#COEUR.#PL
+MO<;+&`+8><8&Q9Y>W]"CLFQ@O:/#?O?N1;NJ%>F;+^L;4T2#1S38/VM*'R`>I4^U%LBO2HZB1"B56V&
+JJVDK^F(+GH,9_:@R7]"36W-SM4P"X%Z)'$E!$GI>7NY>/P@.FU3V_R#72)D">MYE)["W$NADAE$;@J2
+N`8J`G"TN&>AGC75I3:>/"P7U]X!UN:(QT<]!DZN`Q"TZNO=VC_).-'H;D!C1`:`N%#4?37`V2<ALE_B
+"[^/^(^@H`E(^@V^ZEU6O*Y6OJT$^DO\3[73=Q&Y7=B(#\DV5:'!4F=Z\>KBD]0P+:HDP\.\?')3S8#F
+SKANN!+B>Y/@6@?A$*ILK.!U#THOP*V*Y:2*?J<RP(+R6Q!7@;6[Z'U?W\N5U_D7=FD=4RW6OJ_QN,#V
+N.+SMQG#<M0S//-(0L2`8Y8";`V]DE;+U\`1:\#XFF;YNZT"))LB)79N!R(!<)!01D)*'27:1"%P`(X*
+`O,`!$;J;C8`!)_Z0^R@ZN5N!"2221!6^8`"<`EE/C`^N`]!U@*8SB8V@]&P_31[,`WX`Q$2]F!(>555
+5!&2X&T$;W\T8-K22I-M\M!&(K3;K[PK^JI?GSXV`))YIR_,(M"[GP#@&XD3_]58*6SU.EJT(<A]@6P5
+V[G8Z<6RMN.)L>HG9`-;?$D:[S\(6?,@CI]R?T]/%IH);\)Z0_[/XVLC`#NGWM_-^0BH,3G3Y%EB=Z,"
+@G/4_&9N<PAX7\<Q`Q#*I>1P5>Y56F)D!,$)L\8[D4QG&H($R^[T^7@(@7ZYL%2F8?FV[(U7/F&.D=3)
+'(2A#+>8ZM@IH1++QN9]:;.I.W,<6*Z)*''Z2Z,E%?I)(.4;4YJU880FUT5)JJ-:]P/V`Q$PEY0YVN\#
+KI=`+\>\;'0VCEZ]H-L^D8IIIL%W/&_.0`*)>;`\9@]!I_/PF#PK`Q#.0`*)>;`\9@]!I_/PF#A!IIII
+!++++!,CX_VIDZ?@,A;,\X8/?@]!R[J"K#0F8C)XJ'D(@U+YQ?H4DJ_N;M'A2.IFB?2[6KGI0=K\3'VE
+!6#(+A@[NOQ^;I2_(.3OYR0;7B7'6X%+34I*'WZSI"),%9\$]+[6C;M8P`7RC[-(L<_NS+_OY$=8+22(
+<*.G2R*H=!@Y?/-^?^6`NG)QK*D%2D"X>-H*0YAE6:B]0[F=7@WG+"4(Z449-S"NCZSWUH>DA]YL4V4Q
+O):*9N.DO*(3=)**:)R'&]E3(*/-%:*S=$(P5SLT<<#.'%9J@VM:-7K'*<=').Z)9.FPPZ[@F4)>3?'$
+:NX-*@-X\P=%D]3"7F;_':Z<054/!FT<2R32@PYR%SOX,&]\3->Q?N:EGFXM7K$4HNW&W8##-%(*04HJ
+DHLUJ`7KV`C`L4`)095_X^<`!+DP\3<`!%E#0!GRM_<`!&?"D]@F/+<0?CYOB/U:"8'U"O"TE^OZS@RK
+;41>2D$%QI[L#UZ?/:(89JQR$+3$A^BT6WS]-4X'E8>R)PFTJ($."OG25;.SQ,-3=$\P=CE]26;MX`7P
+_<`J$6'#>UD.<5.T/@+_^=_@^\JVY[?`7JBL$\4E3D$-6#4F6Z*0)(8"0N4F]/;KUEM@W5+]=BD+0+CF
+G!TB14]ZQ1@FTV(L6;QUS\V*J2;2KXEJZEB?25#,H'37)(?GM467C:,Q^.\I?OI*M*;!G9Q_38XY'-9"
+RDLD(?JUVP:+8%,$^[:.KSY$:RQX(03IRI/IGV_U#&0,W\`^=G\:OW\^O=\=`Q!7->]VK8HB#?#;;UN2
+*>X1GD3.YXD#%.'7))X%BO/09?YKFC[SW@Y)4Q^+7[`-RVV$<#)`+[2.(H>[NH03H,KD#ZO*!*%7=AE2
+S\75DU/0[60`!-)PKW!2<RNO2H4:=2NP#ZX"=.]R'$E$*(==V!WCX[7(WRI!)NAERZC\QB/!R4/Y+4XR
+CJ_MV6<8<`BCP95XU`L=C.[@NIOE6P-6QS\H,=$M=]H[ZJSX=%::9L:B()J71'4,%("'$D!Q2[6INY<G
+N>"P\W`5R41')2IMK.D=?1[D*5YRQ=5_W].0>["<8.L':\S[EE#+NV'KIK!%Z5]EYTX'/05:HWV28`S8
+8_N2_SA\)T*N1]S&IFCWJB!PT:WB=_X07H`WJ_]O(%0-L\V_@\BWE$NTVT_&/D]0[F.'TQQRS+J9$:0'
+4*N'7W!.]_"`>T4U]-[K]#SL<JN?)4$.R'$Z:`D),:#]]HI/^6^:KXP@]B?QJWN<_N0]E6I\`Q!OX7,S
+]\9Z%TO`P^`QK9;QWZML+K%KQ%5R1]+&Z//1=5V>*GAVOWM.11RG;3-%I[NF7)Q69:"Y08GN4`B%ZYLT
+6PN6J?QWFJ$.*"-]:5/60SZ9D"S03B9KL&;0]OAH1JS?K`JMRRK"_V2SG0+K'$*P0T<MZZ00@XJNT@N=
+Q?7SY0G&SW?O33"_'4_>74Y>V1*'XW9(T(2.IF1MJ@\GZ=Z40<>CJ0]!B'N2DX0=22#+/12S%8571X^T
+\XXP^HL3^P6;=<[0`A@]!LW6..3NM6"@Y:$Z@X,=Q`?[ZTT_P3H*K##W%-E":@+]MY@"_`OTUL:V(QD+
+NP&*J=-T/UU]<R4SR\RM<!5!(ZGQ$E,HJR6/[]03@[*^A"937->T-]UK)M:9E@?<!!TD!*T1M45XP_85
+(2B?T8^@USB.K(GQ'*9NK"E+`.H!5%9^_P7J*.336SUE$@[ZJ6WS9RORXRV'/$_F;&DY><\(>S8>F?X6
+V<4L#VH;-&>!14P*WNF?-$!R\VHX?GD-NRJL.09L)E;S0B7$--B3059)S//0?H^9KN\`!),Z#^B4\@V`
+3%/K:OIZ7D;25D-<#2^T/$HKW0@^+9NZ%<>UHCE:Z(,S/EA8@\(Z4R7N*Y2P0\-B?+)G]_U3Q42.-A!+
+B="=HZG/4Q#=YL-<2.17S.UU!%94T#JE8T!G>O\:H>D0@'+4R&2\P]OI+B4[,_ER0\14SM?14*Z"AX?:
+RDVRDL_.*&@21=Q7Z1MSF]S:'!=Y((()\ZJ).+O\D4Z,[.%&N'WRJ(F20GRH!")*//Q[VIW(B?[@6L/$
+5ID&"0/M5BDF2HD*'=-!4N//T#H^9KXP@]%(M;;7XYMIH5^]G_7,?R$IR,`?2PY?H5>D3H594!90MT?6
+Z9DRZP0$<MZR`3A[*@GT;[3%'%):!0-8?5"Q8W:X&=^]9JT?(^47X%XW=-$M_2*5:VX`!(-I$O'=D'22
+^:K^`Q!%$Q^.;7W]W2H55ESEU"-)+F%6]&>IQ/==]>;BO\RLNF:F#H,%Y0"***0]B_&7:.!V+/ZBA]B:
+**W+2_6-EA,$\Q,+3"DPED![V">[>=W-M;8+)0.8>'[S+[/-YS'5E(HXK:6[EV:P==;-)O[2,&K@FPHS
+=KJ5RK'RN+AA:YZ(**[6&(>222.Z="7:ISB<@]O$Q4D(8(P7RK@B?3'\3WU^.\2QRS4T38=7QFQ-!>!P
+*)!**05=6GS[&K%&J,=X%#QR23.%ZEF24P(61#=E]^B4?)K>8X\@-09Q\<W%@5)D/^QE$L-S<=G1&2RD
+/-?HP59P)H]NLC!S3RK&6A_!Q(4=-=`A27TJ8B18VN:8%M_Z<R*^M=<K'6E5F?ZTE^?"D]26..!O)I<F
+LOXE=L<?>!^N,'[(ZQO314E>2B?=YJP%67\N_?S`KYF2JWU`.F6>4<TL?72.T23N)@GRO,%(]/F,*=">
+*CC<9TN)4QW@E()"RUZ*JN^I^\JM9?\C26,G-F*5@;Y[KWUH;@9Y.3R["K5E.N)E+<<LG%':!TDH*WZS
+!-(*0!\U@7+FGG`,]PU3$W-,KX^@V=DGV.WD69$.'69M';9M6YRA(!)(N548UL*"AM*)7:P-,:,%H.7*
+^"V'XB-ME#N'&6N]5K3+1T&116*TS-=>+DO^)PL(\2^KA-@W;29Z=M/'9%A>??"HCJ>?KWWX`3N`Q"KD
+47C2*(KC1N)9I'D$O(R(,NZ!0(4\P03E`N6BPWRY,4G5(>U")*8]Q+T[+P[V7[0]%4^8J8P9PR;G)\BZ
+P,E5FA6]O<<]I[+?##/F6UOD(ZL+CBZ'"S/A'=E!@8(Z6"25?XK/WP]!4+6'#W8^)OT8U5\DT,=_8]RR
+ZHT"G/31=9`$"J4K%<RP%]$?5SICB:-&1O4V)/?4[62IJ`7+F\X`!!8I,W&/VL@CSWZ;]6)Y&DCCB'&6
+Z6"Z[H*RE`3EXS7>N,#>B-WU\IZ6<'$HNGKN&,WLPT>@[8<M0W@4J`4\^T146!':T%YFE1,**(,N:C#$
+E==>/@7GX/J@;.X\L;7E34\W@OLNR6'CL_N6GL8`!!2+I5U\J'C.52LA3SWZ=J-UM9%G-:/=(DH^+&V8
+<<?6Z<`[JIS",B?=]\=>?;TK+0L6<P]!AP[["^8J>PT.>ZYVNZJH]JJ:)E8+SBNZ"8_(K/"THP5=WM'1
+K631&:B-.]O\'-`+//"T7:263RF6\/X`!!^S6BI>>3\.K2ECED7-+L/#!4H#A$Z@`(6`+J<C`<5)WA6#
+O_13!STD#Y"Y'=!$HJ7<25@7;DOJ02F?QJKVFM7EC_SEP/E-K-#J6:E*'?YQ4A__+G867734#S*'[KI%
+5OVFWD!ZR`3M_CEKUY+U.&`8E.UITVHK8HOD?J*$MQT3?9L0.UYRAFOP!^;D147-AGT#X63IF6]ADE%!
+^+KU5H6<@-^`[]BKGEO6<@VZF[+_BNM`:L>BO:3R?4>Q$H!Y'/HP2`;8_E1S_6`KA`'\LO*^P?K.&6^9
+KJ**\?3^2?QJP6L]`1P#^]SV.L'D,P!8$T@)O$H)"[(]?ZK(S*\<^[EM;F?BDH5M0JAZKP25SKO7MNVN
+U`1;J]PQ\0@_LGR:;[E.P%N\;G]FNZD0!\49!9A$ZRAFBF6/-DJVK3(R$((+N\*9B^4D6ANQMGV7,:_>
+U#`-QS?=DNE=6BU6C^>T2*,2'LJ?NH3FB%-!9L=#;5FP^;!-+P4D'70@EDUK]HC?U6(5;>/B]B,;+;/\
+#SRRLV'YRE:/4EA$DD[]Z21-VL05>-M\F*BJ=LN$,ZE*.XA]9Q(_8$!%:_5,_.7*^@M\L4@MVR9X+M\N
+,/]&WK#?1H/ZA9S?/QTR7$22O"U+?*Y!XHS[=8OJ,><7>`0QEE9Q$B>P$&6!TEDPCG,YOPXV#ZEP::\G
+TO6E6\.JTM#M$A$/1-:'//V9.&$V$9UJN;H;(4B;G3VFM9GD7;/5BGSR/2D'0P9K;0R(>W^OHW:Z6OWG
+%VR>0+8?9L^Q>0ODU/=H]"7021"LX.E>6O(P<'+TMYJDO]F\_&>J\Y$-#"HI-6$<84;/V`<S2RSN=7ZA
+,2T+SLEKW16S$U\'M[CDS$T.GZVCQO.*AMFM<G%1*E#/\89]O/:'8S]E`DQ/"CL%`CL>*=8.L:_4?X42
+N0+UOZ=I1XSLA<=MI0*0I+Z[CDL=$I*@%FJ*.'6UM_3NQ^WU,X'Y0-W-%`,^U9_\X^;D0C0@K8^IS7A.
+[VO]5EKO&$OSF2*NW]%!]DP\6BU5!;_G;P;7/G8.L,:TN,=($X%&S)W-?0]!6]IX"0*RD0!K;T]2R76P
+'C74N*;N+</2J`]!6#19)9"@HRV`BZL#IIX!UFU/Z/';7R+^30\2NQ=@^^V?<R(:T##'\UB*<3U>4<1L
+-&+K"]SMWXZARZ04H]KZ_CA$>E]1QH6'PI\;Z:JF;/>*\I/'D99+LN2>O"U[A9(&-E]342QR7OH2*":R
+R_7)LB%O#XT<C378(8U![#M7CA$=V.LHR.K-OJ)NF<KZ#C.\O'.BA>Q3J0V)`F4:N8P^,M\@4L'Y?T-*
+:Z8N,Q-*G<(*+((!!'-GM7CD<9$I,`R>>X%;`9$.J]TNZFT,$/1:XW+O?!-$Z3==]EUEXC:<M/F`:N0(
+=12J=`PM0*)A)75.AY<("S$HGM#CA$1HP\33[N@,U^9\3XRG,?#]P/4P@!S4U[=$I+U&]5F\7:<OV-UU
+HGLP78;I31LO'X"ZQO!=]?BR80U5!<GJ;VJ^`.&)..H69=,(<P>AQIA[K&6&)T[\MZZ/;EN@%&B:L"$&
+J4P;R3N/9Z<E-T3%95ZW9Q"WW]^[Z_CA$5GV$4LC_?YO,+]H]V4ZBGP1:.RRBAQ1!?G##/;,P7%O^13[
+;VWC$SUNI>_53./CNE:<0LE>[S[+&JM'ZV&^YQ3_#,,:X,INX^J`?XT-SH"'V#!.I'12[%=ZK+4R5MM]
+4P$?ZBB-;8)PS,HFNRT+&Q2TD"5`7O=II![/@R;:N;ML]7117M\4.'*0^;RQ-EY[Y614DEAHPCIU]5.(
+9,<RWWVVN4!MHG>$ZPG<M9`$&9&&!'^L(C>^7N:9W7\$T3"X%F[]E;Y[B)_!"HHH>DN7$221"%P`!"^S
+@\C`T;J;C8`D\E`X&`GV3U!&&&&!"8V<]'860A`IR9A!?@EE`Q$4?3PF+OZ]038FVI.H:234SLFFCA$E
+D*=]"?H5V['8Y,[Z6>0GZ<+^`O/$(9P[J45_7^X9_I\,7.0V'YGAM,O+YEARZIC<>MTH'3//RKR=X-6J
+;S8%\KE5;FH:DA!#O:]$_(%]*?'D^M+,=S`PLF`\P(!T[!@VLTPYA?/XV[:N.UVW84IW_>BRZZ(`!,,7
+N$,XCM3[6&XCOP]!8Y'.<(`6]/KF67E_BF_.0&MXCD6C6*7SB<%%@`MR^T8.9IIT8[(1I1I5V4JL2(Q>
+;L/N5>3?\$&&,3%:&<09T7Z^1W4C3RA>?D2K2_64ZL.U#7'8Q`9.;T#;0\/CBQ=ZQ!+UBT8Z*56JN([F
+4@."-]M]?[8<P:[PL^]JEO$+NJ;)4A2+-!H(=FNR_BLT@39<C@6L7'S>IZXF5)[("5Z[CPI0R.Y?B]3[
+.*94S.#'9/(6=E%6A?&`BH9_(^37`GO7P*UZD$)&6$[Y\GPJ=$GN+DB*1G\S[,Z;(T?-SOL7R5:Q8O^7
+>2IZP@\.D45Q0N-?5>F[0DIQ_P7L^*CFLZC4OWT[7-?7+2QPRJ`Z*$L8`<$`!.(RV]I6^8`'H`EE/N@^
+M0]!U@(8SB3+#CCCA!IIII!WZ,T3\X2N/NLK?]AFMU>']OW727X/7Y*E8V^+MW7P7.F.II58%E?H3T-\
+'.186T]O"O00K-`H8.U5><BOL(=W?*>/86,K#ZB%7E31,*N8S'Y:6/`>^YZ!W9THGK]`CWSGF>IT?WZ;
+Z]U32IB+DS64F33''2SJQ#/^=>21`Q#PPO"U6\LGHS;>?WVL<MDX%-+?9M#1C2E=M7++=,Q1/-^+LXOM
+180CC059`N-5+_6T'Q32>K"31?2V&9N&#U$=[L`B)>,,/DRSNZ^N.$0>2W==,NP)+HSV<;=%>=AH0N3T
+[`J.RJMOHM<Z)GN<?":2%B<-<-33O`I=DD0]O?5II![U?*^/EOH;=80W532E7UNP&=*+C)%'>R(FO1/7
+808WZR<$5I,3XV3.IX8\:"Z=3JS%/].S3?G"7:22O"UT?*<>^,6@XE>SFF^FW*;QE.RNS:3#Y'XKI(YC
+LS?,^.DV"LE2X2]S?+:V]N@FWQN'1$OZZ)/?/`Y]822P@_P-0[`1[,4@%&L:LIYFDG0W%8(G<6(0G$D(
+0Z^+GE]510:&U]S/[;V7X;.,3$;3!&S:3#Z5A:WY[^[Z?CA$J.2VT4<GTV5WYOR=[H*()S3+OS)K=M!W
+\,$*/$A>K:J?PWNFJ^J",(-7B&VO+K-(T5#LDHV(0^;Z[CDIU(7ZU?F[`:7M'GP=J0]!;.-]XSED5&*N
+X)X%E&=%]Y"S+']1WL&TZ=XT;1,(\I`VH(08\P(V^KZSCB[`V`8=$:O>8AGVD4,N5E%>J&<J)#"EG-$/
+/@<CFAVGXCV<7,IJ*MPIJUC!!S#ZS-]`HVL&II`Y0YB`8X(7DR49*@4XSRX*GP*L>ZYSKB9B'Q:NJX:<
+*8D)8&:U_NWUFH,%K3\HV1XA*!RMQ2DLVZ_HP7(22N`8J`E+VV9\'Y]4[4=8FL>ON]*,/\HO9YQC\:.\
+\F"/\Z?AS=(P58`#6WMM2BFD?.8N)9WE.N(0NE2G0#/=&3'0/1;Z/CDJ9K^X=X\H6>.PLW7YEEPL;Y76
+7AP)E1PM61I5IJ26RD)+^/H07L6TYDU`56O9LR<K.$*"*(+C+]EJD5K3_3/7"TE:R\YLFK+,C/QOP%WE
+8FV&0-N]BN\_3\2%2-/$N)5H>Q@F[]Y^[K4_)<+[U_983T4SS2/K1412M)8:M\EGY=+/OX(NGO;IJ7UM
+(7ZK1[J("Y@3T6'-[8QO13"MQ%RDLVT\6PDR@9JK3X;CYWS834SQJ;12\1#32P(T3(*Y*+__;YSCH`8^
+@=+WFDK$YHNXU^!@-CO)\1WQ6,3%\OI"-L!M"A]K"_)T5MPC43FU[?XMY<CX%XE&5BACC-2D+E`P"FG*
+Q3'9=(N8*55$?JVH`#4[@&?QTL%^T)8F]_Y?TCCE-<LNRN5F8)Z/7[^/B.:'N[H&@2WE.P***(<KX,7U
+5!SRS>K2DA=$K4E_F:6&!(48/P[@@CZNLJ<K+XG7X932IL/(C1+16,!%(HH0((&1?)0%-/MWOW/+3.`N
+<T9/#!J66!T[`,TR7"21^@[`LM#U/EUT8\+UUSUCH7Y][W7Z8#)J6B+G!=FBD"\9`Q!+,@R&;1[$(:.(
+=?9NI]"+9!X'90E(0(![Y[^KZOCD@_P8`-/FD?VP6\,5,,:%*,CZ-W`\20<2R3+G-<7:$_]04ZC"U^[7
+$7>0_V[5VZ<0,$:WD13+U;P]R,E-&*QQ'Y("RUL!II!\&0&GHL?7:?+?7XBND$+IADDX-*.[E)JWA:!Y
+\=^;SN5VO(6..N<?4T9Z)U,TO%"%MI!6?YYWK/@=]'M/CD=.AIIII!++++!#CCCA!IIII!++++!#CCCA
+!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA
+!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!C8`D\E`Q"R@ZN5N2,`!-@=H_YP
+]WK7A!IIII!+_D`AVI'F;@Y!M`%N]SG?13H@+=,#KSMP(O>P8]+_=+^!UH8,_Y]&[>J,4E76NZGS*?!3
+:'9E_P*LU]NQN4&6H3B+WGPJ>(GZDC+?'J+J/.^>07T/Z]=_0J>@E?QUQN&J[HZGS1UXV`W@;O)R3#FL
+^$QW'JY7GK>.;(Q6@%6-25=[DOQR35JJ+[4!"3UAJ;!04PBNKIUHQ<L>\-Z->OQ:5*YTNY!(O=6X(A47
+(VLQ@;8-\\ZV"CF<O75YS@=D"`'P#\87:,4Q^?[7AQNV)DMX_\HCP3PAU<D_S>2$(^RZ[F"`N9Z`4&@(
+:PA6'H5R$X=F<UN<]T[P+M;Z6+>"<7@XX04+4&+/F&@)HV9F&2TTRW],STOM=;$,-RQ!+J[,K]/N[;N\
+<+SR/T"=^](';@+_8G[%]U?<FPK=L];@_31[V`WQ`Q$2]>@+&@6`RJ`Z*$L8`<$`!.(RV]I5CAIIII!+
++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!+
++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!+
++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA!IIII!+
++++!#CCCA!IIII!++++!#CCCA!IIII!++++!#CCCA#*@_0O4`=8_<6,53`]!(X*`O,`.KFI!++++!#OQ
+U,`E#Q@]#`]!1D8(VW/A`Q$)&A`Y&`[%;_DY>;7,F`B@ZI_@YA`X70]!C8Z-U+@&&,,HSYH@(^V3=@F8
+I(AHY<.KU5?J;ZOCN7_;+X($3DV*\$^4\>`7,,3L$4\>9</UBBD8A"5!LWM<HN($TZ+;ZGPO0'Q?3VK]
+??<Z5TZF9&31Q))[ADJ36^*8`B@2>4*.^JNP+R'.WQ!`H7,*],P#TDCSE4`>H<`'MK@%>"LXY.@C<4S#
+OH\EEU?$CJ)9:,G?/'"'EFE9+C+/7*[#P=0_&5?'-]1X(`@^KN;@]/0$OG8U6X<7UHH1M(2GG9Y)^MV=
+_)M.SPF4P[@]%C/1YG[OV9R0#@QNML+&,LR!KX>UQTZ"/9Y`<`;0[@TLP,,4L04I7CU_WCNIW<=6C1+#
+?G?0I+N#CPDM2C[W*EZ6:8`)_MQ_&J9?+D#)5556SH524128-,24RL*'X$+QS$3RR2Q2C/&&D22A+IQ"
+7.YA]7[8Y:]I;L*+BG"-93*GX9[]YRX^;Y,R$]840<P<_(\;3&H'0N&RD+`214T\H]K\].A-4C<?TDI_
+P1Y-2DM.B\]\V\>1_/0COUD](XGA7Z%VR='-SF4R%&E6O@=F?F@.^>HYDF?<3\K7:S\OSFG9Z,(=+YSN
+MTQ==(6D3C\_[G`7\-]NR=M84F5EL;W8J:"2228F(JB2221!5555!&&&&!"2221!5555!&&&&!"2221!
+5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!
+5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!
+5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!
+5555!2,`!-@=H_YP]WK7IF`Y_Z0^R@ZN5N!"2221!6X@QJ3TV(R:;[6K=S21S3<V$`RM"^T]=#O%JU=D
+R3,*%T)[H+MJQ1@7NK.;>'804>H`!*G6;D#N(EGLI_ZE29U#)!&59!(;FLZ]]'@(WYU[WDMP&>L*?RI!
+IOY30-R`N!].^=CP2)@D>Y$FD$0K]E*0],WEJ)`*3+R.4P[7O$`Y84Y"`Q#A[@]!Q$H`!0C+0_&U_!@_
+A[@`!!$H`Q$C+!/\J;Y0`B>0A(`I/H`Q$H`_)I`Y84Y"`Q#A[@]!Q$H`!0C+!/]ILAR];P!0`1>0`A(0
+`Q$%5P]!QOLQ$`U(4`Y"T`]!R&!(>U6QH`#[P!0`!%(4`Q#!=`]!]22`QOLQ$`U(4`Y"T`]!R&!'VYT]
+0DR(Y<HN%64=+.]$(MY`R[@D8TX0",<8$Q8%<2SRH;[-/1;^GG_.XA/+-MGLS4(_[FH+#@T5#P'0C,]2
+>0]!%_K#YU$4Z,1B3LX%J!;8U/U=!`C;^`+=V7$4JV.9\`0`!)*Y7:Z9]5V/HJ)ZLR*@+Z7TD/>JX0]!
+8M+Q+6G,-79Z*[EUF?6D-4,&6J6:>4V-,BYY;CK5?A5556SH3&&&&!"2221!5555!&&&&!"2221!5555
+!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555
+!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555
+!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555!&&&&!"2221!5555
+!&&&&!"2221"%P]!R^S@\C`T;J;C8`D\E`X&`GV3U!2@;9==SIJ^'9!CD\4"`Q!^I`]!PM6,2CA#,\4"
+`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_
+?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\
+4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`H
+N(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"
+`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_
+?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\
+4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`H
+N(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"
+`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_
+?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\
+4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`H
+N(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"
+`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_
+?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\
+4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`H
+N(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"
+`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_
+?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\
+4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`H
+N(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"
+`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_
+?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\
+4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`H
+N(`XW+FR2CA#,\4"`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#,\4"
+`Q!^I`]!PM5@;90_?U@`!(W+FR2CA#,\4"`TWD`\\&(WG$`HN(`XW+FR2CA#'-BZX>?6WKI0LD0_.455
+5!@`W1
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.90,Default,text,0,0,0,,{\pos(322,167)}النادي مَرِح
+Dialogue: 0,0:00:07.40,0:00:08.98,Default,hikari,0,0,0,,هيا بنا نقوم بذلك
+Dialogue: 0,0:00:08.98,0:00:10.82,Default,Izumi,0,0,0,,هل أنتِ متأكدة من ذلك؟، هيكاري
+Dialogue: 0,0:00:10.99,0:00:11.65,Default,hikari,0,0,0,,نعم
+Dialogue: 0,0:00:11.65,0:00:15.70,Default,hikari,0,0,0,,،منذ أن حصلت على هذا المعطف من إريكا-تشان \N!إطلاق النار سيكونُ أكثر مرحاً
+Dialogue: 0,0:00:16.20,0:00:17.78,Default,hikari,0,0,0,,!شكراً جزيلاً لكِ, إريكا-تشان
+Dialogue: 0,0:00:18.58,0:00:21.20,Default,erika,0,0,0,,.إنه ليست خيراً كبيرة. فقط لم أكن بحاجة إليه, على أي حال
+Dialogue: 0,0:00:24.42,0:01:52.38,background,[موسيقى],0,0,0,,[موسيقى]
+Dialogue: 0,0:02:04.47,0:02:05.72,Default,text,0,0,0,,{\pos(644,237)}"نادي الرماية"
+Dialogue: 0,0:02:09.56,0:02:11.48,Default,NARRATION,0,0,0,,...بنادق الشُّعاع قد لا تطلق القذائف
+Dialogue: 0,0:02:13.23,0:02:14.65,Default,NARRATION,0,0,0,,لكنها تطلق صوتاً مثل طلقة النّار
+Dialogue: 0,0:02:14.28,0:02:15.73,Default,text,0,0,0,,{\pos(516,597)}مكان إصدار الصوت
+Dialogue: 0,0:02:19.11,0:02:21.91,Default,erika,0,0,0,,{\pos(658,601)}ماذا؟ أنتٍ تبدين جادة لمرة واحدة
+Dialogue: 0,0:02:22.16,0:02:25.29,Default,hikari,0,0,0,,فقط أتساءل عمّا إذا كانت ستُحدث ضجة مختلفة\N.بين الفينة والأخرى
+Dialogue: 0,0:02:25.45,0:02:26.04,Default,erika,0,0,0,,هاه؟
+Dialogue: 0,0:02:26.66,0:02:27.62,Default,hikari,0,0,0,,...تعرفين ، مثل
+Dialogue: 0,0:02:32.38,0:02:33.25,Default,erika,0,0,0,,!يبدة كإنفجار؟
+Dialogue: 0,0:02:33.92,0:02:36.88,Default,erika,0,0,0,,.وهنا أعتقد أنكِ كنتِ تفكرين في الواقع\Nشيء مهم
+Dialogue: 0,0:02:37.21,0:02:40.59,Default,hikari,0,0,0,,أقصد سماعُ نفس الصوت القديم\Nكل الوقت يجعله مملاً ، أليس كذلك؟
+Dialogue: 0,0:02:40.84,0:02:42.93,Default,Izumi,0,0,0,,أنا لا أمانع حقا
+Dialogue: 0,0:02:43.05,0:02:44.26,Default,hikari,0,0,0,,حقا؟
+Dialogue: 0,0:02:44.26,0:02:48.48,Default,erika,0,0,0,,ربما السبب الحقيقي لعدم تحسٌّن درجاتك\Nلأنك تفكرين في أشياءٍ سخيفة
+Dialogue: 0,0:02:48.85,0:02:51.90,Default,hikari,0,0,0,,أنا دائماً هكذا
+Dialogue: 0,0:02:51.90,0:02:54.65,Default,hikari,0,0,0,,كلما بدأت في التفكير\Nعن شيء ما ، فقدت كل التركيز
+Dialogue: 0,0:02:55.15,0:02:56.40,Default,hikari,0,0,0,,ما...؟
+Dialogue: 0,0:02:56.40,0:03:00.78,Default,hikari,0,0,0,,,مثل إذا كان "الحامل" في وضع غريب \Nأنصبح مشتتة ولا أستطيع التركيز على الإطلاق
+Dialogue: 0,0:03:00.78,0:03:01.95,Default,Yukio,0,0,0,,فهمتها
+Dialogue: 0,0:03:02.24,0:03:05.91,Default,Yukio,0,0,0,,,يبدو الأمر عندما أحاول الدراسة\Nولكنني في أبدء في تنظيف غرفتي
+Dialogue: 0,0:03:05.91,0:03:06.49,Default,hikari,0,0,0,,بالضبط
+Dialogue: 0,0:03:06.91,0:03:09.66,Default,Izumi,0,0,0,,.أنا أبدأ في إعادة تنظيم أرفف الكتب
+Dialogue: 0,0:03:13.83,0:03:16.30,Default,erika,0,0,0,,نحن في طريقنا لخوض مباراة تدريبية اليوم
+Dialogue: 0,0:03:16.30,0:03:17.13,Default,hikari,0,0,0,,حسنا
+Dialogue: 0,0:03:17.34,0:03:20.76,Default,erika,0,0,0,,,أنا أكره أن يتم سؤالي \Nلكنكِ تعرفين القوانين ، صحيح؟ ، هيكاري
+Dialogue: 0,0:03:20.76,0:03:23.80,Default,hikari,0,0,0,,بالتاكيد! هيا ، أنا لست غبية
+Dialogue: 0,0:03:24.39,0:03:26.60,Default,hikari,0,0,0,,إصابة الهدف قيمته 10.9 نقاط
+Dialogue: 0,0:03:24.05,0:03:28.52,Default,text,0,0,0,,{\pos(202,493)}نقاط
+Dialogue: 0,0:03:27.01,0:03:28.52,Default,erika,0,0,0,,وكم عدد الطلقات التي يتم إطلاقها في المباراة؟
+Dialogue: 0,0:03:31.52,0:03:34.02,Default,hikari,0,0,0,,آه, خمسين؟
+Dialogue: 0,0:03:35.44,0:03:38.53,Default,erika,0,0,0,,!لا أستطيع أن أصدق أنني قد فُقِدت لها في المدرسة المتوسطة
+Dialogue: 0,0:03:38.53,0:03:39.57,Default,erika,0,0,0,,اذن فلتسمعي
+Dialogue: 0,0:03:39.57,0:03:44.41,Default,erika,0,0,0,,تَنص القواعد الأحدث على إطلاق 60 طلقة\Nللحصول على أعلى درجة ممكنة من 654
+Dialogue: 0,0:03:39.07,0:03:46.49,Default,text,0,0,0,,{\pos(1060,139)}المجموع
+Dialogue: 0,0:03:39.07,0:03:46.49,Default,text,0,0,0,,{\pos(162,259)}إريكا
+Dialogue: 0,0:03:44.45,0:03:46.45,Default,erika,0,0,0,,لديك 45 دقيقة لطلق الطلقات الخاصة بك
+Dialogue: 0,0:03:47.12,0:03:49.75,Default,hikari,0,0,0,,...هذا أقل من دقيقة في الطلقة
+Dialogue: 0,0:03:49.75,0:03:54.42,Default,erika,0,0,0,,.هذا أكثر من كاف\N أنتهي دائما بوقتٍ إضافي
+Dialogue: 0,0:03:55.67,0:04:00.17,Default,hikari,0,0,0,,!هذه خسارة\N أنا أريد أن أكون حريصة مع كل طلقة
+Dialogue: 0,0:04:00.38,0:04:03.18,Default,erika,0,0,0,,سوف تُضيعي وقتك في التصويب
+Dialogue: 0,0:04:03.63,0:04:05.51,Default,Yukio,0,0,0,,.هذا يذكرني بقصة ربما سمعت عنها
+Dialogue: 0,0:04:05.51,0:04:11.60,Default,Yukio,0,0,0,,كانت هناك ملكة في الماضي عندما علمت أن مواطنيها الجوعى لا يستطيعون أكل الخبز
+Dialogue: 0,0:04:12.43,0:04:15.44,Default,Yukio,0,0,0,,"!قالت "دعهم يأكلون الكعك
+Dialogue: 0,0:04:16.23,0:04:17.06,Default,Yukio,0,0,0,,...باختصار
+Dialogue: 0,0:04:17.31,0:04:18.32,Default,hikari,0,0,0,,باختصار؟
+Dialogue: 0,0:04:19.32,0:04:22.90,Default,Yukio,0,0,0,,إن عقول الاغنياء لا يمكن أن تفهم مشاكل الفقراء
+Dialogue: 0,0:04:22.90,0:04:24.78,Default,erika,0,0,0,,ما الذي تتحدثين عنه؟
+Dialogue: 0,0:04:32.71,0:04:35.58,Default,NARRATION,0,0,0,,نبدأ الآن مباراة التمارين الخاصة بنا
+Dialogue: 0,0:05:01.65,0:05:03.74,Default,NARRATION,0,0,0,,,الهدف على بعد 10 أمتار
+Dialogue: 0,0:05:03.74,0:05:07.78,Default,NARRATION,0,0,0,,و النقاط العشرة في مركز الهدف\Nقطرها ميليمتر واحد
+Dialogue: 0,0:05:24.21,0:05:26.51,Default,hikari,0,0,0,,أوه,أنا الشخص الوحيدة الذي تقوم بعمل سيئ!
+Dialogue: 0,0:05:27.13,0:05:30.43,Default,hikari,0,0,0,,...إن ضربتُ مركز الهدق ، سيضئ التاج
+Dialogue: 0,0:05:33.27,0:05:36.35,Default,hikari,0,0,0,,.إهدئي. فكري في سبب حدوث ذلك
+Dialogue: 0,0:05:39.10,0:05:40.27,Default,hikari,0,0,0,,!ضبطت الجهاز
+Dialogue: 0,0:05:43.19,0:05:45.19,Default,erika,0,0,0,,!لن أسمح لهيكاري أن تهزمني
+Dialogue: 0,0:05:50.32,0:05:53.58,Default,erika,0,0,0,,هيا, يا سيكلوبس, أعطني نقطة الهدف
+Dialogue: 0,0:05:57.33,0:05:59.88,Default,erika,0,0,0,,يا إلهي، أنا محرجة جداً
+Dialogue: 0,0:06:03.92,0:06:06.88,Default,erika,0,0,0,,!متى ستتوقف الشاشة عن العمل؟! هيا
+Dialogue: 0,0:06:11.39,0:06:12.55,Default,NARRATION,0,0,0,,,لا يزال الربيع
+Dialogue: 0,0:06:13.39,0:06:16.60,Default,NARRATION,0,0,0,,!ولكن الجو حار اليوم , يبدو وكأنه شهر يوليو
+Dialogue: 0,0:06:18.48,0:06:19.85,Default,erika,0,0,0,,.بالتأكيد الجو حار اليوم
+Dialogue: 0,0:06:24.19,0:06:25.94,Default,Izumi,0,0,0,,لا يوجد تدفق هواء هنا، في النهاية
+Dialogue: 0,0:06:28.86,0:06:30.99,Default,Izumi,0,0,0,,,قد لا نتحرك كثيرا في هذه الرياضة
+Dialogue: 0,0:06:30.99,0:06:34.24,Default,Izumi,0,0,0,,لكن هذه المعاطف لا تتنفس على الإطلاق,لذلك يبدو الأمر تقريبا كما لو كان
+Dialogue: 0,0:06:35.04,0:06:36.24,Default,all,0,0,0,,!إختبار التحمل
+Dialogue: 0,0:06:36.91,0:06:39.00,Default,hikari,0,0,0,,هل يمكنني فتح النافذة قليلا؟
+Dialogue: 0,0:06:39.33,0:06:41.33,Default,erika,0,0,0,,آسفة، ستجعل عيناي تجفّان
+Dialogue: 0,0:06:43.25,0:06:47.05,Default,Izumi,0,0,0,,.اطلاق النار هي رياضة\Nلا يمكنني الحصول على كل شيء من قبل قليلا من الحرارة
+Dialogue: 0,0:06:47.63,0:06:48.76,Default,erika,0,0,0,,رغم ذلك
+Dialogue: 0,0:06:52.68,0:06:54.76,Default,Izumi,0,0,0,,لماذا لا نبدو رائعات و رياضيات؟
+Dialogue: 0,0:06:54.76,0:06:57.60,Default,Izumi,0,0,0,,وفوق ذلك، لا أفقد أي وزن
+Dialogue: 0,0:06:58.48,0:07:00.19,Default,hikari,0,0,0,,!وقت التبرّد
+Dialogue: 0,0:07:04.82,0:07:05.94,Default,Izumi,0,0,0,,آه، هل يمكنني الحصول على البعض أيضا؟
+Dialogue: 0,0:07:06.32,0:07:07.07,Default,hikari,0,0,0,,حسناً
+Dialogue: 0,0:07:07.94,0:07:08.49,Default,hikari,0,0,0,,هُنا
+Dialogue: 0,0:07:09.15,0:07:12.53,Default,hikari,0,0,0,,،قد لا يكون لدينا تكييف \Nولكن على الأقل لدينا ثلاجة
+Dialogue: 0,0:07:14.58,0:07:17.20,Default,hikari,0,0,0,,إنه بارد جدا! الحمد لله على الثلج
+Dialogue: 0,0:07:17.79,0:07:20.00,explaining,شرح,0,0,0,,{\pos(618,54)}حساء الميسو هو حساء ياباني تقليدي يتكون بشكل رئيسي من المرق الذي يتم تذويب معجون الميسو فيه.
+Dialogue: 0,0:07:17.79,0:07:20.00,Default,Izumi,0,0,0,,حساء ميسو جيدٌ أيضا في الصيف
+Dialogue: 0,0:07:20.12,0:07:21.42,Default,hikari,0,0,0,,هاه؟
+Dialogue: 0,0:07:21.67,0:07:24.00,Default,hikari,0,0,0,,!ماذا؟ يمكنك وضع الثلج في حساء الميسو؟
+Dialogue: 0,0:07:24.17,0:07:25.42,Default,erika,0,0,0,,!إهدئي
+Dialogue: 0,0:07:25.84,0:07:27.67,Default,Izumi,0,0,0,,أليسَ هذا طبيعياً؟
+Dialogue: 0,0:07:35.35,0:07:36.39,Default,Izumi,0,0,0,,!كل ذلك
+Dialogue: 0,0:07:37.39,0:07:39.89,Default,text,0,0,0,,{\pos(1046,131)}في 35 دقيقة
+Dialogue: 0,0:07:40.35,0:07:42.85,Default,hikari,0,0,0,,...أنا في الطلقة الأخيرة بالفعل
+Dialogue: 0,0:07:43.56,0:07:46.44,Default,hikari,0,0,0,,ليس هنالك طريقة تمكنني أن ألحق بالجميع الآن
+Dialogue: 0,0:07:47.61,0:07:48.90,Default,hikari,0,0,0,,ولكنني أريدها أن تكون هذه الطلقة الأخير
+Dialogue: 0,0:07:53.36,0:07:55.49,Default,erika,0,0,0,,!لقد تغيرت هيكاري فجأة
+Dialogue: 0,0:08:19.85,0:08:24.81,Default,text,0,0,0,,{\pos(140,263)}إريكا
+Dialogue: 0,0:08:19.85,0:08:24.81,Default,text,0,0,0,,{\pos(138,375)}إزومي
+Dialogue: 0,0:08:19.85,0:08:24.81,Default,text,0,0,0,,{\pos(142,511)}هيكاري
+Dialogue: 0,0:08:19.85,0:08:24.81,Default,text,0,0,0,,{\pos(144,625)}يوكيو
+Dialogue: 0,0:08:25.31,0:08:29.65,small,text,0,0,0,,{\pos(370,121)}إريكا
+Dialogue: 0,0:08:25.31,0:08:29.65,small,text,0,0,0,,{\pos(366,173)}إزومي
+Dialogue: 0,0:08:25.31,0:08:29.65,small,text,0,0,0,,{\pos(356,241)}هيكاري
+Dialogue: 0,0:08:25.31,0:08:29.65,small,text,0,0,0,,{\pos(370,293)}يوكيو
+Dialogue: 0,0:08:22.68,0:08:24.56,Default,erika,0,0,0,,.يا رب، هٌنا لدينا
+Dialogue: 0,0:08:25.31,0:08:26.65,Default,erika,0,0,0,,لست متفاجئة من هكاري
+Dialogue: 0,0:08:26.65,0:08:28.65,Default,erika,0,0,0,,لكن ماذا حدث لك, يوكيو؟
+Dialogue: 0,0:08:28.65,0:08:29.65,Default,erika,0,0,0,,.كنت أتوقع أكثر من هاذا منك
+Dialogue: 0,0:08:29.86,0:08:31.65,Default,Izumi,0,0,0,,كنتِ تقومين بعملٍ جيد حتى منتصف الطريق تقريبا
+Dialogue: 0,0:08:33.74,0:08:35.07,Default,erika,0,0,0,,!هاه؟ إنها تبكي
+Dialogue: 0,0:08:36.03,0:08:38.33,Default,Yukio,0,0,0,,لقد نفدت لي من أدوية الحساسية خاصتي
+Dialogue: 0,0:08:38.33,0:08:39.99,Default,erika,0,0,0,,هذا غير متوقع
+Dialogue: 0,0:08:45.29,0:08:47.79,Default,erika,0,0,0,, ما هو نوع التدريبات الذي تقومون بها يا رفاق في المنزل؟
+Dialogue: 0,0:08:48.50,0:08:51.51,Default,erika,0,0,0,,هيكاريو أظن أنكي لا تفعلين أي شيء, ها؟
+Dialogue: 0,0:08:51.51,0:08:53.51,Default,hikari,0,0,0,,!هذا ليس صحيحاً
+Dialogue: 0,0:08:54.38,0:08:57.14,Default,hikari,0,0,0,,,وعلى الرغم عمّا تعتقدين\Nأكون جنونية عند إطلاق النار
+Dialogue: 0,0:08:58.51,0:09:01.60,Default,hikari,0,0,0,,!أنا دائماً ما أتحقق من وضعيتي أمام المرآة في المنزل
+Dialogue: 0,0:09:06.27,0:09:08.40,Default,hikari,0,0,0,,!أبدو رائعة
+Dialogue: 0,0:09:09.48,0:09:11.28,Default,erika,0,0,0,,أهاذا ما تسمينه تمريناً؟
+Dialogue: 0,0:09:13.69,0:09:15.90,Default,Izumi,0,0,0,,.لا أقوم بأي شئ في المنزل
+Dialogue: 0,0:09:15.90,0:09:17.45,Default,Izumi,0,0,0,,على أي حال, أقرأ كتباً عن الرماية بالبندقية
+Dialogue: 0,0:09:17.70,0:09:18.91,Default,Yukio,0,0,0,,.أنا أتعالج
+Dialogue: 0,0:09:18.91,0:09:21.91,Default,erika,0,0,0,,هم, فكرة جيدة حتى تستوعبي قدرتكِ على التركيز
+Dialogue: 0,0:09:22.12,0:09:23.75,Default,erika,0,0,0,, بالإضافة إلى ذلك, لن يساعد بذل جهدٍ كبير\N في التدريب صعوبة كبيرة
+Dialogue: 0,0:09:23.75,0:09:25.54,Default,hikari,0,0,0,,ها, حقاً؟
+Dialogue: 0,0:09:25.54,0:09:27.37,Default,erika,0,0,0,,وهل تفعلين ذلك أصلاً؟
+Dialogue: 0,0:09:27.75,0:09:30.34,Default,erika,0,0,0,,.انتِ تسندين البندقية بعظامك
+Dialogue: 0,0:09:30.34,0:09:32.92,Default,erika,0,0,0,,.انظري إلي ، ليس لدي أي عضلة ذات الرأسين على الإطلاق
+Dialogue: 0,0:09:34.72,0:09:35.84,Default,hikari,0,0,0,,...أنت محقة
+Dialogue: 0,0:09:35.84,0:09:39.09,Default,hikari,0,0,0,,.انها رطبة جداً ، مثل المارشميلو
+Dialogue: 0,0:09:44.73,0:09:45.31,Default,erika,0,0,0,,!لا تأكليني
+Dialogue: 0,0:09:45.60,0:09:47.06,Default,text,0,0,0,,{\pos(354,171)}كوكورا
+Dialogue: 0,0:09:48.06,0:09:51.57,Default,hikari,0,0,0,,...أعتقد أن كل ذلك يأتي بفضل الممارسة ، هاه
+Dialogue: 0,0:09:51.94,0:09:56.11,Default,erika,0,0,0,,لقد سمعت أنه يمكن أن يساعد في تقوية عضلات المنطقة الوسطى\N على كرة التوازن
+Dialogue: 0,0:09:56.11,0:09:58.11,Default,hikari,0,0,0,,...كرة التوازن ، هاه
+Dialogue: 0,0:09:58.74,0:10:02.99,Default,Izumi,0,0,0,,لقد حاولتُ القيام بذلك، ولكنه في الخزانة الأن
+Dialogue: 0,0:10:03.95,0:10:05.87,Default,Izumi,0,0,0,,...لم يعطني أي نتائج
+Dialogue: 0,0:10:06.46,0:10:08.21,Default,hikari,0,0,0,,هذا صعب جداً, هاه
+Dialogue: 0,0:10:08.96,0:10:10.83,Default,Yukio,0,0,0,,متى بدأ فقدان الوزن؟
+Dialogue: 0,0:10:11.92,0:10:12.75,Default,Izumi,0,0,0,,.سنرحل
+Dialogue: 0,0:10:13.09,0:10:15.09,Default,hikari,0,0,0,,لنراكم غذاً
+Dialogue: 0,0:10:15.09,0:10:16.01,Default,erika,0,0,0,,عمل جيد اليوم
+Dialogue: 0,0:10:19.34,0:10:23.43,Default,hikari,0,0,0,,,مع هذه المعدات الجديدة\Nسأعمل بجد كي أكون الأفضل في هذا الصيف
+Dialogue: 0,0:10:23.68,0:10:24.89,Default,Izumi,0,0,0,,هذه هى الروح.
+Dialogue: 0,0:10:24.89,0:10:28.89,Default,Izumi,0,0,0,,,تذكري, مع ذلك, فإن الرماية بالبندقية جيدٌ مع كل شيء \Nلكن امتحانات نصف العام قادمة, أيضاً
+Dialogue: 0,0:10:29.44,0:10:30.10,Default,Izumi,0,0,0,,هل ستكونين على ما يرام؟
+Dialogue: 0,0:10:30.10,0:10:33.57,Default,hikari,0,0,0,,نعم! ، لن أعتمد عليكِ إلى الأبد
+Dialogue: 0,0:10:33.57,0:10:35.86,Default,hikari,0,0,0,,لهذا السبب سأسدّد أفضل طلقة\Nلوحدي هذه المرة
+Dialogue: 0,0:10:41.82,0:10:42.82,Default,hikari,0,0,0,, أوه لا, امتحانات نصف العام
+Dialogue: 0,0:10:43.70,0:10:45.58,Default,Izumi,0,0,0,,...لدي شعور سيء حيال هاذا
+Dialogue: 0,0:10:46.75,0:10:48.04,Default,hikari,0,0,0,,!لقد عدت إلى البيت
+Dialogue: 0,0:10:48.29,0:10:50.92,Default,......,0,0,0,,.مرحبا!, الحمام جاهزٌ لك
+Dialogue: 0,0:10:56.46,0:11:00.34,Default,hikari,0,0,0,,...أنا سيئة في الرماية بالبندقية أكثر منهنّ, هاه
+Dialogue: 0,0:11:00.97,0:11:05.01,Default,hikari,0,0,0,,.وأنا هكذا منذ المدرسة الإبتدائية\N...كم هذا محرج
+Dialogue: 0,0:11:06.06,0:11:08.56,Default,hikari,0,0,0,,يجب أن أكون أفضل حتىّ لا أعيقهم
+Dialogue: 0,0:11:09.89,0:11:13.15,Default,hikari,0,0,0,,أنا أفعل ذلك كي أكونَ متواضعة
+Dialogue: 0,0:11:09.89,0:11:23.03,Default,text,0,0,0,,{\pos(568,89)}مكتئبة
+Dialogue: 0,0:11:13.15,0:11:15.15,Default,hikari,0,0,0,,وماذا سأفعل حيال امتحانات نصف العام؟
+Dialogue: 0,0:11:16.61,0:11:22.32,Default,hikari,0,0,0,,,ربما كان ذلك لأنني كنت منهكة عقليا جدا \Nلكنني كنت مكتئبًا حقًا بعد مباراة التدريب هذه
+Dialogue: 0,0:11:23.99,0:11:26.45,Default,hikari,0,0,0,,أُجري إماحانات نِصف العام
+Dialogue: 0,0:11:34.79,0:11:37.88,Default,hikari,0,0,0,,أهٍ لا ,أنا لم أدرس أي شيء من هذا
+Dialogue: 0,0:11:39.51,0:11:42.05,Default,hikari,0,0,0,,كانت النوادي في فترة إستراحة خلال إمتحانات نصف السنة
+Dialogue: 0,0:11:43.22,0:11:45.05,Default,hikari,0,0,0,,.ولكنهم انتهوا في لمح البصر
+Dialogue: 0,0:11:45.76,0:11:48.31,Default,hikari,0,0,0,,أخيرا اليوم عدنا إلى النادي
+Dialogue: 0,0:11:50.81,0:11:52.89,Default,hikari,0,0,0,,:إليك كيف أجرينا جميعًا إمتحان منتصف السنة
+Dialogue: 0,0:11:51.85,0:11:52.81,Default,text,0,0,0,,{\pos(702,63)}إريكا مينوهاما : الثالثة\125
+Dialogue: 0,0:11:52.94,0:11:54.73,Default,text,0,0,0,,{\pos(702,63)}إزومي شيبوساوا: العاشرة\125
+Dialogue: 0,0:11:54.98,0:11:56.69,Default,text,0,0,0,,{\pos(698,67)}هيكاري كوكورا: 123\125
+Dialogue: 0,0:11:57.02,0:11:58.69,Default,text,0,0,0,,{\pos(634,285)}يوكيو إغاراشي: الأولى\125
+Dialogue: 0,0:11:59.40,0:12:01.57,Default,erika,0,0,0,,لابد أنك غشَشّتِ
+Dialogue: 0,0:12:01.70,0:12:02.70,Default,Yukio,0,0,0,,وااو, هذه وقاحة
+Dialogue: 0,0:12:06.07,0:12:07.70,Default,hikari,0,0,0,,حـَ-حَصَلتُ على صِفر
+Dialogue: 0,0:12:07.74,0:12:09.16,Default,Izumi - erika,0,0,0,,ماذا؟
+Dialogue: 0,0:12:09.16,0:12:12.16,Default,logo,0,0,0,,{\fscx450\fscy360\pos(364,213)}بندقية
+Dialogue: 0,0:12:09.16,0:12:12.16,Default,logo,0,0,0,,{\fscx450\fscy360\\pos(350,321)}جميلة
+Dialogue: 0,0:12:14.58,0:12:16.88,Default,hikari,0,0,0,,يمكنني الذهاب للفراش الأن؟
+Dialogue: 0,0:12:17.46,0:12:18.38,Default,Izumi,0,0,0,,!كلاّ
+Dialogue: 0,0:12:20.17,0:12:22.55,Default,,0,0,0,,بطريقة ما ، لقد قمت يإجتياز الإمتحان
+Dialogue: 0,0:12:25.47,0:12:26.34,Default,hikari,0,0,0,,{\pos(640,633)}!إريكا-تشان
+Dialogue: 0,0:12:26.76,0:12:27.68,Default,erika,0,0,0,,{\pos(652,625)}ماذا؟
+Dialogue: 0,0:12:27.68,0:12:30.68,Default,hikari,0,0,0,,{\pos(642,633)}هل يمكنكي أن تريني كيف أفعل بعض الأشياء؟
+Dialogue: 0,0:12:30.68,0:12:33.94,Default,erika,0,0,0,,{\pos(638,627)}أها, إذن أنتي اخيراً تريدين أن تتعلمي مني؟
+Dialogue: 0,0:12:33.94,0:12:37.48,Default,erika,0,0,0,,.أقصِد لقد أتيتي للشخص الصحيح
+Dialogue: 0,0:12:37.48,0:12:39.48,Default,hikari,0,0,0,,كنت أعرف, إريكا-تشان
+Dialogue: 0,0:12:39.48,0:12:43.49,Default,hikari,0,0,0,,إذاً ، كيف أرمي كرة الفوركبول؟ صحيح؟
+Dialogue: 0,0:12:39.82,0:12:43.49,explaining,شرح,0,0,0,,{\pos(638,48)} هي نوع من الألعاب في لعبة البيسبول
+Dialogue: 0,0:12:44.07,0:12:45.41,Default,erika,0,0,0,,!ليس عن كيفية الرماية
+Dialogue: 0,0:12:47.07,0:12:50.04,Default,erika,0,0,0,,{\pos(638,633)}سنلعب كرة القاعدة في التربية البدنية. غذاً
+Dialogue: 0,0:12:50.04,0:12:53.16,Default,hikari,0,0,0,,{\pos(636,635)}!نعم، لذلك يجب عليّ أتعلم بعض الحيل
+Dialogue: 0,0:12:53.16,0:12:55.75,Default,erika,0,0,0,,{\pos(628,633)}.حقاً,  ليست لعبة الفوركبول في لعبة كرة القاعدة نفسها
+Dialogue: 0,0:12:55.75,0:12:58.13,Default,hikari,0,0,0,,ماذا؟! لكنني أسمع عنها طوال الوقت
+Dialogue: 0,0:12:58.25,0:13:01.67,Default,erika,0,0,0,,، نعم, في البيسبول. على الرغم من ذلك \Nفي كرة القاعدة يتم إلقاء الكرة\N
+Dialogue: 0,0:13:03.88,0:13:05.63,Default,hikari,0,0,0,,أليست نفس الشيء؟
+Dialogue: 0,0:13:05.72,0:13:07.18,Default,erika,0,0,0,,.لا على الإطلاق
+Dialogue: 0,0:13:07.30,0:13:09.68,Default,erika,0,0,0,,.انظرو ، ليست هناك فائدة من تعليمكم في اللحظة الأخيرة
+Dialogue: 0,0:13:09.76,0:13:11.43,Default,erika,0,0,0,,.ليس هناك فائدة من محاولة تعليمك
+Dialogue: 0,0:13:11.43,0:13:12.56,Default,hikari,0,0,0,,هاا؟
+Dialogue: 0,0:13:13.39,0:13:18.10,Default,hikari,0,0,0,,أنا سيئة في ألعاب الكرة, لذلك أحتاج\N...لأن أتمرّن قليلاً لأُصبح أفضل
+Dialogue: 0,0:13:18.31,0:13:20.15,Default,erika,0,0,0,,"هل تقصدين "أنك سيئة في ألعاب الكرة
+Dialogue: 0,0:13:18.31,0:13:20.15,Default,erika,0,0,0,,{\pos(288,705)}؟
+Dialogue: 0,0:13:22.03,0:13:23.61,Default,erika,0,0,0,,ماذا عنك, إيزومي؟
+Dialogue: 0,0:13:24.19,0:13:25.65,Default,Izumi,0,0,0,,أنا لست جيدة جيدًا, أيضًا
+Dialogue: 0,0:13:25.65,0:13:28.95,Default,Izumi,0,0,0,,,أنا متفوقة في الحفظ\Nو جيدة في الأشياء الأخرى, لكن سيئة في التربية البدنية
+Dialogue: 0,0:13:30.66,0:13:33.62,Default,Izumi,0,0,0,, .و لدي فترة مشتركة غدا في التربية البدنية\Nسوف أكون مكتئبة
+Dialogue: 0,0:13:34.00,0:13:36.62,Default,hikari,0,0,0,,أتمنى ألا تكون عندنا التربية البدنية
+Dialogue: 0,0:13:36.62,0:13:40.50,Default,hikari,0,0,0,,يجب أن يُسمح لنا بممارسة الرياضة بمفردنا\Nحتى نتمكن من التركيز على مواضيع أخرى
+Dialogue: 0,0:13:40.50,0:13:42.38,Default,hikari,0,0,0,,!سيكون ذلك أفضل بكثير
+Dialogue: 0,0:13:42.38,0:13:44.88,Default,Izumi,0,0,0,,التربية البدنية تشوشنا على مسيرتنا الدراسية التعليم
+Dialogue: 0,0:13:44.88,0:13:46.55,Default,hikari,0,0,0,,!صحيح
+Dialogue: 0,0:13:47.09,0:13:48.13,Default,Yukio,0,0,0,,هم فقط يتجاهلون الواقع
+Dialogue: 0,0:13:48.34,0:13:51.22,Default,logo,0,0,0,,{\fscx434\fscy435\pos(372,217)}بندقية
+Dialogue: 0,0:13:48.34,0:13:51.22,Default,logo,0,0,0,,{\fscx434\fscy435\\pos(358,345)}جميلة
+Dialogue: 0,0:13:52.60,0:13:53.39,Default,NARRATION,0,0,0,,!اليوم التالي
+Dialogue: 0,0:13:58.44,0:14:01.36,Default,teacher,0,0,0,,!حسنًا ، دعنا نبدأ بالتجهيز
+Dialogue: 0,0:14:01.44,0:14:02.65,Default,players,0,0,0,,!حسنًا
+Dialogue: 0,0:14:05.15,0:14:06.99,Default,hikari,0,0,0,,!حسنا ، هيا لنفعلها ، يا إيزومي تشان
+Dialogue: 0,0:14:07.36,0:14:08.11,Default,Izumi,0,0,0,,!حسنًا
+Dialogue: 0,0:14:09.28,0:14:12.87,Default,hikari,0,0,0,,!قد يموتون أيضًا بابتسامة على وجوهنا! هيا نقُم بذلك
+Dialogue: 0,0:14:14.37,0:14:16.37,Default,Izumi,0,0,0,,لم أكن أعرفُ أنكِ عسراء, يا هيكاري
+Dialogue: 0,0:14:17.25,0:14:17.75,Default,hikari,0,0,0,,ها؟
+Dialogue: 0,0:14:19.08,0:14:19.54,Default,Izumi,0,0,0,,ها؟
+Dialogue: 0,0:14:21.08,0:14:22.09,Default,someone,0,0,0,,!هاهي آتية
+Dialogue: 0,0:14:22.17,0:14:22.92,Default,someone,0,0,0,,!حسنًا
+Dialogue: 0,0:14:23.00,0:14:24.05,Default,someone,0,0,0,,أسفة
+Dialogue: 0,0:14:24.30,0:14:25.59,Default,Izumi,0,0,0,,!حسناً, لنبدأ
+Dialogue: 0,0:14:25.67,0:14:27.05,Default,hikari,0,0,0,,!إرمها هنا
+Dialogue: 0,0:14:32.01,0:14:33.01,Default,hikari,0,0,0,,...ماذا؟
+Dialogue: 0,0:14:35.02,0:14:36.14,Default,hikari,0,0,0,,!هاهي آتية
+Dialogue: 0,0:14:38.77,0:14:41.19,Default,Izumi,0,0,0,,كيف ستمسكين الكرة\Nو عيناكي مغمضتان؟
+Dialogue: 0,0:14:41.44,0:14:43.82,Default,hikari,0,0,0,,هاه؟ كانت عيناي مغلقتان؟
+Dialogue: 0,0:14:44.15,0:14:45.82,Default,Izumi,0,0,0,,!ركزي بعيكي على الكرة
+Dialogue: 0,0:14:48.24,0:14:49.82,Default,Izumi,0,0,0,,لماذا تُغْلِقِينَ عَيْنَيْكِي؟
+Dialogue: 0,0:14:52.41,0:14:54.95,Default,erika,0,0,0,,...لم أكن أعتقد أنها ستكون بهذا السوء
+Dialogue: 0,0:14:56.12,0:14:58.75,Default,erika,0,0,0,,!حسنا ، بعد ذلك ، دعونا نسمع من ... مينوهاما-سان
+Dialogue: 0,0:14:58.75,0:14:59.66,Default,erika,0,0,0,,!نـنـعم
+Dialogue: 0,0:15:02.25,0:15:03.71,Default,,0,0,0,,.الصفحة 20
+Dialogue: 0,0:15:04.71,0:15:12.22,Default,erika speakung english😂,0,0,0,,عندما وصلت إلى المحطة ، أدركت \N  أنني قد تركت هاتفي الخلوي في غرفتي
+Dialogue: 0,0:15:13.47,0:15:16.64,Default,teacher,0,0,0,,أحسنتِ! هكذا تقرأ ، جميعاً
+Dialogue: 0,0:15:16.64,0:15:17.60,Default,,0,0,0,,!رائع\Nأحسنتِ! هكذا تقرأ ، جميعاً
+Dialogue: 0,0:15:20.10,0:15:22.48,Default,,0,0,0,,...أتمنى أن أكون مثل مينوهاما-سان
+Dialogue: 0,0:15:22.60,0:15:24.48,Default,,0,0,0,,...لو كنتُ فقط نصف يابانية
+Dialogue: 0,0:15:25.19,0:15:29.82,Default,erika,0,0,0,,اه ، أنا نصف الروسية\N!مهاراتي في اللغة الإنجليزية لا علاقة لها بذلك
+Dialogue: 0,0:15:31.53,0:15:34.16,Default,hikari,0,0,0,,كنتِ تُراقِبينَنا؟
+Dialogue: 0,0:15:34.45,0:15:36.12,Default,erika,0,0,0,,...كانت هيكاري فوضوية ، لكن
+Dialogue: 0,0:15:37.62,0:15:39.54,Default,erika,0,0,0,,كنتِ مثيرة للشفقة إلى حدٍ كبير ، يا إزومي...
+Dialogue: 0,0:15:40.12,0:15:41.54,Default,Izumi,0,0,0,,...أنتِ على حق
+Dialogue: 0,0:15:41.54,0:15:47.09,Default,Izumi,0,0,0,,,حاولتُ أن أبدو أفضل من هيكاري\Nولكن لم أكن في الواقع في المستوى
+Dialogue: 0,0:15:49.13,0:15:53.18,Default,Izumi,0,0,0,,أنا أعلم أنني المثقفة المملة\N تقوم بكل شيء بطريقة مقصوصة وجافة للغاية
+Dialogue: 0,0:15:53.18,0:15:54.93,Default,erika,0,0,0,,!لم أقل ذلك
+Dialogue: 0,0:15:55.18,0:15:56.05,Default,hikari,0,0,0,,!أوه, نعم
+Dialogue: 0,0:15:56.05,0:15:59.43,Default,hikari,0,0,0,,!لم أجرب بعد فطيرت التفاح بعد خاصتك ، يا إيزومي-تشان
+Dialogue: 0,0:15:59.93,0:16:00.31,Default,Izumi,0,0,0,,ها؟
+Dialogue: 0,0:16:00.73,0:16:02.48,Default,hikari,0,0,0,,سوف تصنعين واحدة لي؟
+Dialogue: 0,0:16:03.35,0:16:04.48,Default,Izumi,0,0,0,,أعتقد, حسناً
+Dialogue: 0,0:16:05.81,0:16:08.82,Default,hikari,0,0,0,,أنا دائما أريد شيئا حلو المذاق بعد العمل بها
+Dialogue: 0,0:16:09.32,0:16:10.36,Default,hikari,0,0,0,,!لا استطيع الانتظار ليوم غد
+Dialogue: 0,0:16:10.36,0:16:12.03,Default,Izumi,0,0,0,,! لن تحصلي عليها غدا
+Dialogue: 0,0:16:12.90,0:16:15.82,Default,erika,0,0,0,,هل قالت ذلك لأنها كانت قلقة بشأن إيزومي؟
+Dialogue: 0,0:16:15.82,0:16:18.41,Default,Yukio,0,0,0,,.يجب أن تكون قلقة على نفسها
+Dialogue: 0,0:16:18.95,0:16:20.20,Default,Yukio,0,0,0,,!انهم حقا مقرّبات
+Dialogue: 0,0:16:20.20,0:16:22.54,Default,erika,0,0,0,,يوكيو ، منذ متى وأنتِ هنا؟
+Dialogue: 0,0:16:23.58,0:16:26.54,Default,erika,0,0,0,, على الرغم من أنني شعرت بأنها تريد حقًا تناول تلك الكعكة.
+Dialogue: 0,0:16:26.92,0:16:27.67,Default,Yukio,0,0,0,,نعم
+Dialogue: 0,0:16:28.96,0:16:31.97,Default,logo,0,0,0,,{\fscx450\fscy360\pos(926,211)}بندقية
+Dialogue: 0,0:16:28.96,0:16:31.97,Default,logo,0,0,0,,{\fscx450\fscy360\\pos(912,319)}جميلة
+Dialogue: 0,0:16:33.01,0:16:33.97,Default,NARRATION,0,0,0,,!بعد ذلك اليوم
+Dialogue: 0,0:16:35.01,0:16:38.35,Default,erika,0,0,0,,أعلم أنه لدينا التربية البدنية، لكن إهدئو
+Dialogue: 0,0:16:38.60,0:16:40.10,Default,erika,0,0,0,,سأكون مُتساهلة معك
+Dialogue: 0,0:16:41.10,0:16:41.98,Default,Yukio,0,0,0,,تشعرين أنني سأتراجع مرة أخرى؟
+Dialogue: 0,0:16:41.98,0:16:44.85,Default,Yukio,0,0,0,,هل تريدين تكرار ما حدث في إمتحانات منتصف السنة؟
+Dialogue: 0,0:16:48.73,0:16:49.82,Default,erika,0,0,0,,...سنقوم بتسوية هذا
+Dialogue: 0,0:16:50.53,0:16:51.99,Default,Yukio,0,0,0,,!على ملعب الكرة...
+Dialogue: 0,0:17:05.75,0:17:08.17,Default,,0,0,0,,!ضربة !أنتِ خارجاً
+Dialogue: 0,0:17:09.75,0:17:10.63,Default,Yukio,0,0,0,,!كرة القاعدة
+Dialogue: 0,0:17:12.38,0:17:16.47,Default,NARRATION,0,0,0,,إريكا-تشان هي المنتصرة في معركة كرة القاعدة
+Dialogue: 0,0:17:17.39,0:17:20.39,Default,logo,0,0,0,,{\fscx450\fscy360\pos(926,211)}بندقية
+Dialogue: 0,0:17:17.39,0:17:20.39,Default,logo,0,0,0,,{\fscx450\fscy360\\pos(912,319)}جميلة
+Dialogue: 0,0:17:22.72,0:17:25.23,Default,Izumi,0,0,0,,.ما خطبك؟ تبدين محبطة اليوم
+Dialogue: 0,0:17:26.14,0:17:27.19,Default,hikari,0,0,0,,...ايزومي-تشان
+Dialogue: 0,0:17:28.02,0:17:28.81,Default,hikari,0,0,0,,...إنه
+Dialogue: 0,0:17:29.23,0:17:30.73,Default,hikari,0,0,0,,.من الصعب الاعتراف بذلك
+Dialogue: 0,0:17:31.11,0:17:31.86,Default,Izumi,0,0,0,,ماهو؟
+Dialogue: 0,0:17:32.19,0:17:33.82,Default,Izumi,0,0,0,,.إذا كنتِ قلقة بشأن شيء ما ، فأخبرني بذلك
+Dialogue: 0,0:17:33.82,0:17:35.11,Default,Izumi,0,0,0,,!نحن أصدقاء
+Dialogue: 0,0:17:36.11,0:17:40.74,Default,hikari,0,0,0,,أنا لا أعرف ما هدفي\Nبعد ذهابي للرماية بالبندقية
+Dialogue: 0,0:17:40.74,0:17:41.62,Default,Izumi,0,0,0,,ها؟
+Dialogue: 0,0:17:43.41,0:17:44.66,Default,erika,0,0,0,,أنت لا تعرفين ماذا ستفعلين؟
+Dialogue: 0,0:17:44.66,0:17:45.71,Default,hikari,0,0,0,,صحيح
+Dialogue: 0,0:17:46.12,0:17:48.25,Default,hikari,0,0,0,,و الألعاب الأولمبية ستأتي قريباً ، أليس كذلك؟
+Dialogue: 0,0:17:48.25,0:17:51.04,Default,hikari,0,0,0,,كنت أتطلع إليهم حقًا\Nولكن هناك الكثير للقيام به
+Dialogue: 0,0:17:51.71,0:17:54.09,Default,erika,0,0,0,,حسناً إذن, لننهي أموراً في هذا اليوم.
+Dialogue: 0,0:17:54.21,0:17:55.26,Default,hikari,0,0,0,,!لقد تجاهلتني
+Dialogue: 0,0:17:55.80,0:17:59.47,Default,erika,0,0,0,,هل تعتقدينَ حقاً أنّك\Nستنافسين في الألعاب الأولمبية بالفعل؟
+Dialogue: 0,0:18:00.64,0:18:04.81,Default,erika,0,0,0,,إذا كنتي تريدين هدفاً, فيجب عليكِ أن تشاركي\N في كوشين للرماية بالبندقية العالمي
+Dialogue: 0,0:18:05.18,0:18:07.85,Default,hikari,0,0,0,,!مرحا!, إزومي أحضرت فطيرة التفّاح
+Dialogue: 0,0:18:08.02,0:18:09.56,Default,Izumi,0,0,0,,إبتهجي, حسناً؟
+Dialogue: 0,0:18:13.44,0:18:14.98,Default,hikari,0,0,0,,!انه جيد جدا
+Dialogue: 0,0:18:15.44,0:18:17.24,Default,hikari,0,0,0,,أوه ، آسفة ، عن ماذا كنتِ تتحدثين؟
+Dialogue: 0,0:18:17.82,0:18:20.32,Default,erika,0,0,0,,...وأنا كنت قلقة عليك
+Dialogue: 0,0:18:22.41,0:18:24.37,Default,hikari,0,0,0,,هل هناك تصفيات للرعايا في المحافظات؟
+Dialogue: 0,0:18:24.45,0:18:26.79,Default,erika,0,0,0,,!إنها أهم مسابقة لنادينا
+Dialogue: 0,0:18:26.91,0:18:28.41,Default,hikari,0,0,0,,!ًحسنا
+Dialogue: 0,0:18:29.92,0:18:31.04,Default,Yukio,0,0,0,,!مهلاً لحظة
+Dialogue: 0,0:18:31.92,0:18:33.92,Default,Yukio,0,0,0,,هل نحن ذاهبون للتنافس؟
+Dialogue: 0,0:18:35.09,0:18:36.17,Default,erika,0,0,0,,بالطّبع
+Dialogue: 0,0:18:36.30,0:18:41.43,Default,Izumi,0,0,0,,,في النصف الأخير من شهر يونيو\Nلن نتمكن من اتخاذ هذا الأمر بسهولة
+Dialogue: 0,0:18:41.43,0:18:43.97,Default,hikari,0,0,0,,!أنا أتطلّع إلى يونيو الآن
+Dialogue: 0,0:18:44.51,0:18:45.39,Default,hikari,0,0,0,,!دعونا نفعل ذلك
+Dialogue: 0,0:18:46.64,0:18:47.52,Default,hikari,0,0,0,,!إنتظري لحظة
+Dialogue: 0,0:18:47.64,0:18:50.15,Default,hikari,0,0,0,,!هذا في شهرٍ واحد
+Dialogue: 0,0:18:50.31,0:18:53.48,Default,erika,0,0,0,,!نعم ، هذا ما قلناه
+Dialogue: 0,0:18:53.90,0:18:56.28,Default,erika,0,0,0,,.حسنًا، ليس الأمر كما لو أننا سنقوم بذلك\Nمن خلال التصفيات، على أي حال
+Dialogue: 0,0:18:56.90,0:18:58.32,Default,hikari,0,0,0,,لن نفعل؟
+Dialogue: 0,0:18:59.70,0:19:03.83,Default,hikari,0,0,0,,مهلاً، إريكا-تشان، هل تعتقدين أنه يمكننا محاولة\Nإجراء ذلك من خلال التصفيات المؤهلة؟
+Dialogue: 0,0:19:03.83,0:19:04.87,Default,erika,0,0,0,,ماذا؟
+Dialogue: 0,0:19:05.41,0:19:09.29,Default,erika,0,0,0,,لا توجد طريقة، وليس الطريقة التي نُسجل بها النقاط
+Dialogue: 0,0:19:09.87,0:19:11.25,Default,erika,0,0,0,,ما عليك سوى التخلي عنه.
+Dialogue: 0,0:19:12.83,0:19:15.55,Default,hikari,0,0,0,,...أريد أن أرى هيروشيما ، على الرغم من
+Dialogue: 0,0:19:16.42,0:19:18.97,Default,erika,0,0,0,,.حسنا، إنها على الأقل تعرف أين يتم احتجاز المواطنين
+Dialogue: 0,0:19:19.59,0:19:24.01,Default,erika,0,0,0,,,لدينا بعض الوقت قبل المنافسة الفعلية\Nلذلك سيتعين علينا فقط التدرب
+Dialogue: 0,0:19:27.77,0:19:28.56,Default,Izumi,0,0,0,,.هيكاري
+Dialogue: 0,0:19:28.56,0:19:30.56,Default,hikari,0,0,0,,ماذا؟
+Dialogue: 0,0:19:30.56,0:19:31.81,Default,Izumi,0,0,0,,!من المبكّر جدّاً أن نتخلى عن الأمر
+Dialogue: 0,0:19:31.81,0:19:34.40,Default,hikari,0,0,0,,إيزومي-تشان! هل لديك أي أفكار؟
+Dialogue: 0,0:19:34.40,0:19:36.40,Default,erika,0,0,0,,لدي شعورٌ سيء حيال هاذا
+Dialogue: 0,0:19:37.03,0:19:40.90,Default,Izumi,0,0,0,,نحن نلبس معاطف اطلاق النار\N لإبقاء أجسامنا في مكانها، أليس كذلك؟
+Dialogue: 0,0:19:40.90,0:19:46.58,explaining,شرح,0,0,0,,{\pos(660,508)}نقاطُ الضّعف
+Dialogue: 0,0:19:40.90,0:19:44.07,Default,Izumi,0,0,0,,,حتى ولو كان لدينا جسمٌ مناسب
+Dialogue: 0,0:19:44.07,0:19:46.07,Default,Izumi,0,0,0,,لابدّ من وجود بعض مجالٍ ضئيل
+Dialogue: 0,0:19:47.37,0:19:48.41,Default,Izumi,0,0,0,,...لذا فإنّي أفكّر فـ
+Dialogue: 0,0:19:49.95,0:19:52.92,Default,hikari,0,0,0,,...فهمتها! إذا استطعنا تقييد حركتنا أكثر
+Dialogue: 0,0:19:52.92,0:19:54.92,Default,Izumi,0,0,0,,يمكننا 100 ٪ التدقيق على هدفنا أكثر
+Dialogue: 0,0:19:54.92,0:19:57.88,Default,erika,0,0,0,,أنت تعرفين أن هذا 100 ٪ ضد القواعد ، أليس كذلك؟
+Dialogue: 0,0:19:59.21,0:20:00.51,Default,erika,0,0,0,,...لا أستطيع أن أصدق أنك لا تعرفين ذلك
+Dialogue: 0,0:20:01.01,0:20:03.84,Default,erika,0,0,0,,كيف بحق الجحيم  يا رفاق أنكم وصلتم لهذا الحد؟
+Dialogue: 0,0:20:07.06,0:20:12.35,Default,erika,0,0,0,,وأنتِ ، ما بالك؟\Nيجب أن تفكري في أفكارٍ أخرى
+Dialogue: 0,0:20:16.31,0:20:17.32,Default,Yukio,0,0,0,,هل يمكنني مساعدتك؟
+Dialogue: 0,0:20:18.11,0:20:19.28,Default,erika,0,0,0,,!هي لم تكن تسمع لنا
+Dialogue: 0,0:20:20.40,0:20:24.91,Default,erika,0,0,0,,انظري ، أنتِ أذكى فتاة في الصف\Nيجب أن يكون لديك بعض الأفكار
+Dialogue: 0,0:20:26.53,0:20:29.45,Default,Yukio,0,0,0,,دعيني أوضح الأمور جيداً
+Dialogue: 0,0:20:30.25,0:20:33.08,Default,Yukio,0,0,0,,,لقد كان الامر مجرد صدفة \Nو تصادف أنني فهمت كل شيء على ما يرام
+Dialogue: 0,0:20:33.75,0:20:34.71,Default,Yukio,0,0,0,,وقد تم ضبطي في من الحراسة
+Dialogue: 0,0:20:35.04,0:20:36.17,Default,erika,0,0,0,,يا إلهي
+Dialogue: 0,0:20:36.79,0:20:42.76,Default,Yukio,0,0,0,,,لكن كما يقول فنان بيك أب هذا\N"كل شيء يتعلق بالتجربة"
+Dialogue: 0,0:20:36.79,0:20:40.26,explaining,شرح,0,0,0,,{\pos(642,50)}فنانو بيك أب ، الذين يُعرفون أنفسهم كمجتمع للإغواء ، أو مجتمع البيك أب
+Dialogue: 0,0:20:42.72,0:20:43.97,Default,hikari,0,0,0,,فنانو بيك أب؟
+Dialogue: 0,0:20:44.68,0:20:49.51,Default,Yukio,0,0,0,,لعب مباريات التدريب ضد المدارس الأخرى\N سوف يساعدنا أكثر إذا أردنا أن نحقق نتائج جيدة في التصفيات
+Dialogue: 0,0:20:50.72,0:20:51.52,Default,erika,0,0,0,,.أنت على حق
+Dialogue: 0,0:20:52.73,0:20:55.10,Default,hikari,0,0,0,,!رائعٌ جداً ، أنتِ حقاً عبقرية
+Dialogue: 0,0:20:56.52,0:20:57.27,Default,erika,0,0,0,,من سوف نواجه؟
+Dialogue: 0,0:20:57.27,0:20:58.44,Default,hikari,0,0,0,,يا إلهي
+Dialogue: 0,0:20:59.73,0:21:01.94,Default,hikari,0,0,0,,!فقط عندما كنا نعتقد أننا قد اكتشفنا ذلك
+Dialogue: 0,0:21:02.36,0:21:05.91,Default,Izumi,0,0,0,,سيتعين علينا فقط الوصول إلى المدارس الأخرى\Nالتي لديها نوادي الرماية بالبنادق
+Dialogue: 0,0:21:06.49,0:21:07.70,Default,hikari,0,0,0,,هيا بنا نقوم بذلك
+Dialogue: 0,0:21:11.87,0:21:14.66,Default,hikari,0,0,0,,!حسنًا ، سنترك الأمر لك
+Dialogue: 0,0:21:14.66,0:21:17.83,Default,erika,0,0,0,,ماذا؟ لماذا علي أن أفعل ذلك؟
+Dialogue: 0,0:21:17.83,0:21:19.21,Default,erika,0,0,0,,يا له من ألم
+Dialogue: 0,0:21:20.92,0:21:24.84,Default,hikari,0,0,0,,!كنا نظن أنك ممثل النادي ، إريكا-تشان
+Dialogue: 0,0:21:20.92,0:21:24.84,Default,text,0,0,0,,{\frz340.2\org(734,15)\pos(1082,61)}نادي الرماية بالبنادق
+Dialogue: 0,0:21:26.84,0:21:28.22,Default,erika,0,0,0,,أنتِ الشخص الذي جمعنا ، هيكاري. أنا لم أفعل شيئاً
+Dialogue: 0,0:21:29.18,0:21:31.35,Default,Yukio,0,0,0,,!ولكن أنت لدينا ملكة اطلاق النار الجميلة الذكية
+Dialogue: 0,0:21:31.81,0:21:34.02,Default,erika,0,0,0,,!لا تحاولي مغازلتي هكذا
+Dialogue: 0,0:21:34.02,0:21:35.77,Default,erika,0,0,0,,أتروكو هيكاري تفعلها
+Dialogue: 0,0:21:36.14,0:21:37.52,Default,hikari,0,0,0,,!لا
+Dialogue: 0,0:21:38.15,0:21:38.94,Default,Izumi,0,0,0,,... عقبة أخرى
+Dialogue: 0,0:21:39.31,0:21:41.61,Default,Izumi,0,0,0,,...أولاً ، سابدأ بالبحث عن مدارس
+Dialogue: 0,0:21:46.65,0:21:50.53,Default,erika,0,0,0,,جيد!,سأتواصل مع بعض الفتيات اللّواتي أعرفهن
+Dialogue: 0,0:21:41.86,0:21:44.40,Default,text,0,0,0,,{\pos(920,89)}...تحديق
+Dialogue: 0,0:21:52.49,0:21:52.54,Default,hikari,0,0,0,,حقاً؟
+Dialogue: 0,0:21:52.54,0:21:55.08,Default,erika,0,0,0,,.لكننا لن نذهب ضد مدرسة سهلة
+Dialogue: 0,0:22:00.75,0:22:03.42,Default,erika,0,0,0,,سيكون الأمر أكثر إثارة إذا لعبنا ضد فريقٍ صعب
+Dialogue: 0,0:22:03.42,0:22:05.63,Default,erika,0,0,0,,!شخص قد لا نتمكن من التغلب عليه
+Dialogue: 0,0:22:06.72,0:22:07.63,Default,all,0,0,0,,إنّها جادّة
+Dialogue: 0,0:22:09.47,0:22:12.47,Default,hikari,0,0,0,,!يبدو أننا سنواجه مباراة تدريب حقيقية قريبًا
+Dialogue: 0,0:23:45.77,0:23:47.69,Default,NARRATION,0,0,0,,في المرة القادمة ، على الجمعية الملكية للكيمياء في تشيدوري
+Dialogue: 0,0:23:47.69,0:23:49.11,Default,NARRATION,0,0,0,,"منافسينا أقوياء"
+Dialogue: 0,0:23:49.32,0:23:49.90,Default,NARRATION,0,0,0,,!اراكم لاحقا

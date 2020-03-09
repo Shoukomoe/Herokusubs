@@ -1,0 +1,76 @@
+﻿[Script Info]
+Title: العربية - هيروكو
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1280
+PlayResY: 720
+Original Script: Tenka Hyakken English Community
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Subtitle,Cairo,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: sign_2575_1_header,Arial,20,&H00F3FAFD,&H00F3F9FD,&H00F4FAFE,&H00F4FBFC,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: sign_2575_1_Text_in_header,Cairo,88,&H00FFFFFF,&H000000FF,&H001602D4,&H005250D8,-1,0,0,0,100,100,0,0,1,2,3,2,10,10,10,1
+Style: sign_2235_yellow_text,Cairo,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: sign_2575_1_header_end,Arial,20,&H00FFFFFF,&H000000FF,&H00F7FBFD,&H00F7FBFD,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Defaults,Ebhaar,80,&H0017415A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: ex,Ebhaar,80,&H0017415A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: (C),Cairo,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.90,0:00:04.69,Subtitle,,0,0,0,,.كان عصر ميجي
+Dialogue: 0,0:00:05.00,0:00:08.00,Subtitle,,0,0,0,,.بسبب الأحداث الأخيرة والتدريب الشاق
+Dialogue: 0,0:00:08.00,0:00:10.76,Subtitle,,0,0,0,,.سيوفٌ مع ظهور البِكر
+Dialogue: 0,0:00:10.76,0:00:13.54,Subtitle,,0,0,0,,...ظهور ميتسوروغي
+Dialogue: 0,0:00:13.54,0:00:16.00,Subtitle,,0,0,0,,....كانوا يحاولون تحقيق تغيير كبير
+Dialogue: 0,0:00:19.00,0:00:21.40,Subtitle,,0,0,0,,!صحيح! في ملابس خادمة
+Dialogue: 0,0:00:53.30,0:00:54.71,Subtitle,,0,0,0,,...حسنًا، تنكا هياكن
+Dialogue: 0,0:00:54.71,0:00:56.71,Subtitle,,0,0,0,,!...بدءًا من الآن
+Dialogue: 0,0:01:02.04,0:01:04.50,Subtitle,,0,0,0,,{\pos(632,630)}سوكاشي ماساموني
+Dialogue: 0,0:01:08.00,0:01:10.45,Subtitle,,0,0,0,,{\pos(632,630)}هوشو ماساموني
+Dialogue: 0,0:01:08.00,0:01:10.45,Subtitle,,0,0,0,,سو-ني؟
+Dialogue: 0,0:01:10.85,0:01:13.45,Subtitle,,0,0,0,,{\pos(632,630)}هورينوكي ماساموني
+Dialogue: 0,0:01:10.85,0:01:13.45,Subtitle,,0,0,0,,ماذا يحدث؟
+Dialogue: 0,0:01:18.50,0:01:19.90,Subtitle,,0,0,0,,{\pos(636,648)}ماذا حدث للتو؟
+Dialogue: 0,0:01:21.39,0:01:22.90,Subtitle,,0,0,0,,.كانت "سو ني-ساما" السبب
+Dialogue: 0,0:01:23.00,0:01:25.00,Subtitle,,0,0,0,,!لا يمكن\Nماذا علينا ان نفعل؟
+Dialogue: 0,0:01:25.00,0:01:27.30,Subtitle,,0,0,0,,..."ماذا علينا ان نفعل؟"
+Dialogue: 0,0:01:29.30,0:01:31.99,Subtitle,,0,0,0,,!"كان هذا خطأ "هوى ني-ساما
+Dialogue: 0,0:01:32.30,0:01:34.30,Subtitle,,0,0,0,,لماذا؟! لم تكن غلطتي
+Dialogue: 0,0:01:34.30,0:01:36.30,Subtitle,,0,0,0,,!...و...و الأهَم من هذا
+Dialogue: 0,0:01:38.30,0:01:39.50,Subtitle,,0,0,0,,!نحن بحاجة للإختباء
+Dialogue: 0,0:01:44.79,0:01:47.30,Subtitle,,0,0,0,,{\pos(292.6,325.8)}"كوانا جو"
+Dialogue: 0,0:01:43.30,0:01:47.30,Subtitle,,0,0,0,,أتساءل على مذا يبحثن عليه الأخوات؟
+Dialogue: 0,0:01:49.63,0:01:52.42,Subtitle,,0,0,0,,{\pos(265,297)}"جوو يوشيميتسو"
+Dialogue: 0,0:01:48.00,0:01:51.00,Subtitle,,0,0,0,,ربما حبوب اللقاح الحسّاسة؟
+Dialogue: 0,0:02:07.23,0:02:10.23,sign_2575_1_header,,0,0,0,,{\p1\fscx1413\fscy710\pos(1168,260.4)}m -36 -16 l 18 -16 l 17 -10 l -37 -10 {\p}
+Dialogue: 0,0:02:07.23,0:02:10.23,sign_2575_1_Text_in_header,,0,0,0,,{\pos(537.6,161.2)}الأخوات هوشو: أيامٌ فوضوية
+Dialogue: 0,0:02:11.60,0:02:13.00,Subtitle,,0,0,0,,إذاً؟
+Dialogue: 0,0:02:13.00,0:02:14.80,Subtitle,,0,0,0,,ماذا يحدث هنا؟
+Dialogue: 0,0:02:15.44,0:02:18.40,Subtitle,,0,0,0,,{\pos(251,320)}جويزومي ماساموني
+Dialogue: 0,0:02:16.00,0:02:18.40,Subtitle,,0,0,0,,.يا إلهي
+Dialogue: 0,0:02:18.40,0:02:19.50,Subtitle,,0,0,0,,!نحن لا نعرف
+Dialogue: 0,0:02:19.50,0:02:20.70,Subtitle,,0,0,0,,!فجأة إنكسرت
+Dialogue: 0,0:02:20.70,0:02:22.67,Subtitle,,0,0,0,,!هذا ليس خطأنا
+Dialogue: 0,0:02:22.70,0:02:25.72,Subtitle,,0,0,0,,.من المؤكد أنتم أوّل من بدأها
+Dialogue: 0,0:02:28.00,0:02:30.40,Subtitle,,0,0,0,,.مهلاً, مهلاً، جويزومي-سان
+Dialogue: 0,0:02:30.40,0:02:33.40,Subtitle,,0,0,0,,.أنا متأكدة أنهم لم يقصدوا أي ضرر
+Dialogue: 0,0:02:34.00,0:02:35.40,Subtitle,,0,0,0,,و ماذا كان اذا؟
+Dialogue: 0,0:02:36.40,0:02:38.40,Subtitle,,0,0,0,,.لقد كان سببها هذا
+Dialogue: 0,0:02:38.40,0:02:42.40,sign_2235_yellow_text,,0,0,0,,مادة تشبه حبوب اللقاح الصفراء الكيميائية
+Dialogue: 0,0:02:52.40,0:02:56.40,Subtitle,,0,0,0,,رائعة ، أليس كذلك؟\Nمن المحتمل أن تكون حبوب اللقاح الحسّاسة
+Dialogue: 0,0:02:57.14,0:02:58.30,Subtitle,,0,0,0,,.بالتأكيد هذا ليس صحيحاً
+Dialogue: 0,0:02:58.40,0:03:01.40,Subtitle,,0,0,0,,.حتى لو كانوا ميتسوروغي قد لا يتمكنون من التغلب على غضب حبوب اللقاح
+Dialogue: 0,0:03:02.00,0:03:03.40,Subtitle,,0,0,0,,.ها أنتِ ذا
+Dialogue: 0,0:03:03.40,0:03:05.40,Subtitle,,0,0,0,,!مهلاً يا غو
+Dialogue: 0,0:03:10.40,0:03:13.90,Subtitle,,0,0,0,,!كيف من المفترض أن نصلح هذا
+Dialogue: 0,0:03:13.84,0:03:15.96,sign_2575_1_header_end,,0,0,0,,{\p1\fscx534\fscy1055\pos(826,884)}m 0 0 m 4 -21 m 9 -23 m 9 -23 m -28 -9 m -16 32 m -10 39 m 38 37 m 16 -9  {\p}
+Dialogue: 0,0:03:13.88,0:03:15.96,Defaults,,0,0,0,,{\frx356\fry346\frz19.67\fscx308\fscy336\pos(638,382)}سنغلق
+Dialogue: 0,0:03:13.88,0:03:15.96,Defaults,,0,0,0,,{\frx356\fry346\frz19.67\fscx332\fscy309\pos(752,572)}اليوم
+Dialogue: 0,0:03:13.88,0:03:15.96,ex,,0,0,0,,{\frx356\fry346\frz19.67\fscx332\fscy309\pos(614,624)}!
+Dialogue: 0,0:03:22.97,0:03:25.10,(C),,0,0,0,,{\fad(190,0)\pos(309.334,652.667)}HerokuSubs : ترجمة و إلخ
+Dialogue: 0,0:03:25.90,0:03:28.40,Subtitle,,0,0,0,,.نراكم لاحقا
+Dialogue: 0,0:02:54.40,0:02:56.40,Subtitle,,0,0,0,,

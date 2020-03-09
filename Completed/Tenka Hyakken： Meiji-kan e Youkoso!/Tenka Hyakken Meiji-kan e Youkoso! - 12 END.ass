@@ -1,0 +1,123 @@
+﻿[Script Info]
+Title: العريبة
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1280
+PlayResY: 720
+Original Script: iichan - Tenka Hyakken English Community
+Original Translation: HerokuSubs
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Subtitle,Adobe Arabic,66,&H00FFFFFF,&H000000FF,&H00323B49,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,10,10,18,0
+Style: Song_ar,FF Yaseer,60,&H00FFFFFF,&H000000FF,&H0026282F,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,18,1
+Style: Song_en,Open Sans Semibold,60,&H00FFFFFF,&H000000FF,&H00262A2F,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,18,0
+Style: sign_2575_1_Text_in_header,VIP Hakm Bold,88,&H00FFFFFF,&H000000FF,&H001602D4,&H005250D8,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: sign_2575_1_header,Arial,20,&H00F3FAFD,&H00F3F9FD,&H00F4FAFE,&H00F4FBFC,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: END,VIP Hakm Bold,60,&H00FFFFFF,&H000000FF,&H000FD6D9,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.14,0:00:03.85,Subtitle,,0,0,0,,{\fscx100\fscy100\fad(194,100)\b1\an8} avrore.blogspot.com :HerokuSubs هذا الإصدار مقدّم لكم من طرف  \N@HerokuSubs {\\c&HF4F0F0&}:تابعونا على تويتر على
+Dialogue: 0,0:00:02.14,0:00:03.71,Subtitle,,0,0,0,,{\fn}!اليومُ هو عيدُ الميلاد
+Dialogue: 0,0:00:03.71,0:00:06.10,Subtitle,,0,0,0,,...فعليًا اليوم
+Dialogue: 0,0:00:06.10,0:00:08.50,Subtitle,,0,0,0,,.لقد كُنا نعد شيئاً ما...
+Dialogue: 0,0:00:09.58,0:00:12.59,Subtitle,,0,0,0,,.نأمُل أن تُحب مجموعة جويزومي ذلك
+Dialogue: 0,0:00:12.59,0:00:13.22,Subtitle,,0,0,0,,!بلى
+Dialogue: 0,0:00:13.22,0:00:14.14,Subtitle,,0,0,0,,!نعم
+Dialogue: 0,0:00:17.03,0:00:19.00,Subtitle,,0,0,0,,{\bord6\blur2\fad(200,200)\1a&HFF&\t(155,200,\1a&H00&)\t(2710,2755,\)\c&H8BF6FB&\3c&HCC95EA&}!"ميري كريسماس"
+Dialogue: 0,0:00:17.03,0:00:19.00,Subtitle,,0,0,0,,{\blur0.5\fad(200,200)\c&H8BF6FB&\1a&HFF&\t(155,200,\1a&H00&)\t(2710,2755,\1a&HFF&)\3c&H8BF6FB&}!"ميري كريسماس"
+Dialogue: 0,0:00:17.03,0:00:19.00,Subtitle,,0,0,0,,{\bord0\blur0.5\fad(200,200)\\c&HFFFFFF&\3c&HFFFFFF&\3a&H00&\1a&H00&}!"ميري كريسماس"
+Dialogue: 0,0:00:20.96,0:00:22.06,Subtitle,,0,0,0,,هدية؟
+Dialogue: 0,0:00:22.06,0:00:22.85,Subtitle,,0,0,0,,!نعم
+Dialogue: 0,0:00:23.24,0:00:24.85,Subtitle,,0,0,0,,.لقد أعددناها بأنفُسِنا
+Dialogue: 0,0:00:25.30,0:00:26.88,Subtitle,,0,0,0,,.صنعها بكل بحب{صنعها بقلبنا}
+Dialogue: 0,0:00:27.32,0:00:28.10,Subtitle,,0,0,0,,!نعم
+Dialogue: 0,0:00:28.60,0:00:30.00,Subtitle,,0,0,0,,.نحن متشوّقون لذلك
+Dialogue: 0,0:00:32.52,0:00:33.86,Subtitle,,0,0,0,,!هديتي أولاً
+Dialogue: 0,0:00:35.06,0:00:35.86,Subtitle,,0,0,0,,!تادا
+Dialogue: 0,0:00:36.18,0:00:37.20,Subtitle,,0,0,0,,!لعبة فخمة
+Dialogue: 0,0:00:37.50,0:00:38.80,Subtitle,,0,0,0,,هل هذه أنا؟
+Dialogue: 0,0:00:38.80,0:00:39.68,Subtitle,,0,0,0,,!صحيح
+Dialogue: 0,0:00:40.00,0:00:42.66,Subtitle,,0,0,0,,.ساعدتني (سو-ني) و (نوو) كثيراً
+Dialogue: 0,0:00:44.46,0:00:45.40,Subtitle,,0,0,0,,!هذا مُذهل
+Dialogue: 0,0:00:45.88,0:00:48.00,Subtitle,,0,0,0,,.شكراً، ســأحافظ عليه
+Dialogue: 0,0:00:48.24,0:00:49.46,Subtitle,,0,0,0,,.أنا سعيدة
+Dialogue: 0,0:00:50.08,0:00:51.98,Subtitle,,0,0,0,,.هذه منّي لـــ(كوانا غو)
+Dialogue: 0,0:00:52.68,0:00:53.98,Subtitle,,0,0,0,,!من أجلك
+Dialogue: 0,0:00:54.42,0:00:56.76,Subtitle,,0,0,0,,.سمعتُ أنكي تحبين الكتب
+Dialogue: 0,0:00:56.76,0:00:58.28,Subtitle,,0,0,0,,.كم هو جميل
+Dialogue: 0,0:00:58.28,0:01:00.80,Subtitle,,0,0,0,,!صنعنا جميعًا هذا الكتابَ معًا
+Dialogue: 0,0:01:02.70,0:01:04.77,Subtitle,,0,0,0,,.هذه الهدايا كانت مذهلة
+Dialogue: 0,0:01:04.77,0:01:06.14,Subtitle,,0,0,0,,!شكرًا جزيلاً
+Dialogue: 0,0:01:06.14,0:01:08.14,Subtitle,,0,0,0,,!أنا سعيدة جدًا
+Dialogue: 0,0:01:09.28,0:01:10.46,Subtitle,,0,0,0,,!أخيرًا، هديتي
+Dialogue: 0,0:01:11.26,0:01:12.06,Subtitle,,0,0,0,,!من أجلك
+Dialogue: 0,0:01:12.06,0:01:16.07,Subtitle,,0,0,0,,جويزومي تُحب التفاح\N.لذا أحضرتُ لكِ عطرَ التفاح
+Dialogue: 0,0:01:16.64,0:01:18.07,Subtitle,,0,0,0,,عطر؟
+Dialogue: 0,0:01:18.07,0:01:21.66,Subtitle,,0,0,0,,نعم! 100 ٪ من التفاح الطبيعي\N !الذي جمعتهُ بنفسي
+Dialogue: 0,0:01:22.24,0:01:23.04,Subtitle,,0,0,0,,...فهمتك
+Dialogue: 0,0:01:23.60,0:01:24.87,Subtitle,,0,0,0,,...حسنًا
+Dialogue: 0,0:01:25.56,0:01:26.48,Subtitle,,0,0,0,,.شكرًا لك...
+Dialogue: 0,0:01:27.75,0:01:31.25,sign_2575_1_header,,0,0,0,,{\p1\fscx1471\fscy846\pos(1166,282.4)\b0}m -36 -16 l 18 -16 l 17 -10 l -37 -10 {\p}
+Dialogue: 0,0:01:27.75,0:01:31.25,sign_2575_1_Text_in_header,,0,0,0,,{\fscx75\fscy75\pos(722,154.8)\b1}"جويزومي ماساموني: "العُلبة مذهلة
+Dialogue: 0,0:01:27.75,0:01:31.25,Subtitle,,0,0,0,,{\fndjadli_Tachkili\c&H5F3E6E&\3c&H323B49&\3a&HFF&\pos(948,202)\b0}!{\b1}ما هذا
+Dialogue: 0,0:01:27.75,0:01:31.25,Subtitle,,0,0,0,,{\fndjadli_Tachkili\pos(912,486)}{\fndjadli_Tachkili\c&H5F3E6E&\3c&H323B49&\3a&HFF&\b0}!{\b1}كم هو رائع
+Dialogue: 0,0:01:27.75,0:01:31.25,Subtitle,,0,0,0,,{\pos(394,327)}{\fndjadli_Tachkili\c&H5F3E6E&\3c&H323B49&\3a&HFF&\b0}!{\b1}جذّاب
+Dialogue: 0,0:01:28.30,0:01:28.84,Subtitle,,0,0,0,,!حسناً
+Dialogue: 0,0:01:33.22,0:01:35.47,Subtitle,,0,0,0,,.في الواقع، نحن الثلاثة أعددنا هدية أيضًا
+Dialogue: 0,0:01:35.54,0:01:36.11,Subtitle,,0,0,0,,?!
+Dialogue: 0,0:01:36.40,0:01:38.38,Subtitle,,0,0,0,,{\pos(643,659)}.اختار ثلاثتُنا ذلك
+Dialogue: 0,0:01:38.76,0:01:40.10,Subtitle,,0,0,0,,{\pos(643,659)}ما هو؟ ما هو؟
+Dialogue: 0,0:01:40.32,0:01:41.48,Subtitle,,0,0,0,,{\pos(643,659)}ما هو؟ ما هو؟
+Dialogue: 0,0:01:42.00,0:01:43.28,Subtitle,,0,0,0,,{\pos(643,659)}.أنا متأكدة من أنها سوف تبدو رائعة عليكما يا فتيات
+Dialogue: 0,0:01:45.96,0:01:46.48,Subtitle,,0,0,0,,!إنه شريط
+Dialogue: 0,0:01:46.80,0:01:47.60,Subtitle,,0,0,0,,!شريط
+Dialogue: 0,0:01:47.60,0:01:48.70,Subtitle,,0,0,0,,!نعم إنه شريط
+Dialogue: 0,0:01:50.70,0:01:52.03,Subtitle,,0,0,0,,!شكرًا جزيلاً
+Dialogue: 0,0:01:49.85,0:01:53.40,Subtitle,,0,0,0,,{\fnOpen Sans Semibold\fs60\pos(641,69)}Presented by: HerokuSubs
+Dialogue: 0,0:02:01.07,0:02:05.83,Song_en,,0,0,0,,{\pos(643,79)}mune ni tomotta hi ga moeteiru (yurari)
+Dialogue: 0,0:02:01.07,0:02:05.83,Song_ar,,0,0,0,,إشتعلت النيران داخل صدري (بخفّة)
+Dialogue: 0,0:02:05.85,0:02:10.46,Song_en,,0,0,0,,{\pos(643,79)}fureatta bun dake atsuku naru (motto motto)
+Dialogue: 0,0:02:05.85,0:02:10.46,Song_ar,,0,0,0,,تُصبح عاطفيّة ونرتبط سويّاً (أكثر وأكثر)
+Dialogue: 0,0:02:10.92,0:02:15.17,Song_en,,0,0,0,,{\pos(643,79)}sore wa tokubetsu dakedo hitotsu janai
+Dialogue: 0,0:02:10.92,0:02:15.17,Song_ar,,0,0,0,,إنها خاصة، لكنها ليستِ الوحيدة
+Dialogue: 0,0:02:15.28,0:02:18.50,Song_en,,0,0,0,,{\pos(643,79)}sorezore ni totte no tokubetsu nano
+Dialogue: 0,0:02:15.28,0:02:18.50,Song_ar,,0,0,0,,كل واحدة منهم مميزة
+Dialogue: 0,0:02:18.52,0:02:20.88,Song_en,,0,0,0,,{\pos(643,79)}"ichi" omoiyari "ni" kangaete
+Dialogue: 0,0:02:18.52,0:02:20.88,Song_ar,,0,0,0,,واحد" الرحمة "اثنان" التفكير"
+Dialogue: 0,0:02:20.88,0:02:24.01,Song_en,,0,0,0,,{\pos(643,79)}"san" mamori nukeru chikara wo
+Dialogue: 0,0:02:20.88,0:02:24.01,Song_ar,,0,0,0,,ثلاثة" قوّة الحماية"
+Dialogue: 0,0:02:24.01,0:02:28.52,Song_en,,0,0,0,,{\pos(643,79)}issho nara dekiru shinjiteru yo
+Dialogue: 0,0:02:24.01,0:02:28.52,Song_ar,,0,0,0,,أعتقد أننا يمكن أن نفعل ذلك معًا
+Dialogue: 0,0:02:29.16,0:02:31.65,Song_en,,0,0,0,,{\pos(643,79)}Kore wa aijou yuujou sore ijou
+Dialogue: 0,0:02:29.16,0:02:31.65,Song_ar,,0,0,0,,.هَذا هُو الحُبُّ والصَّداقة، بل وأكثرُ من ذلك
+Dialogue: 0,0:02:31.65,0:02:34.62,Song_en,,0,0,0,,{\pos(643,79)}kizuna ainou yuunou tsuyoku natteru
+Dialogue: 0,0:02:31.65,0:02:34.62,Song_ar,,0,0,0,,.أنا أعلم، كما تعلمين، إرتِباطُنا يزداد قوّةً
+Dialogue: 0,0:02:34.62,0:02:38.90,Song_en,,0,0,0,,{\pos(643,79)}La la la la...Hontou ni sore dake?
+Dialogue: 0,0:02:34.62,0:02:38.90,Song_ar,,0,0,0,,لا لا لا لا~... ولكن هل هذا كل شيء؟
+Dialogue: 0,0:02:38.90,0:02:41.41,Song_en,,0,0,0,,{\pos(643,79)}Meguru ounou hanmon koetemo
+Dialogue: 0,0:02:38.90,0:02:41.41,Song_ar,,0,0,0,,.وحتى لو تغلبنا على مُعاناتِنا
+Dialogue: 0,0:02:41.41,0:02:44.33,Song_en,,0,0,0,,{\pos(643,79)}Yureru kanjou hannou doushitara ii
+Dialogue: 0,0:02:41.41,0:02:44.33,Song_ar,,0,0,0,,كيف نتعاملُ مع هذه المشاعر المترددة؟
+Dialogue: 0,0:02:44.64,0:02:48.80,Song_en,,0,0,0,,{\pos(643,79)}La la la la...Shinken ni mukiau
+Dialogue: 0,0:02:44.64,0:02:48.80,Song_ar,,0,0,0,,~لا لا لا لا... نحن نواجه الأمر بصِدقٍ
+Dialogue: 0,0:02:48.80,0:02:53.78,Song_en,,0,0,0,,{\pos(643,79)}Moroku yawana kankei janai no dakara
+Dialogue: 0,0:02:48.80,0:02:53.78,Song_ar,,0,0,0,,.لأن ارتباطاتنا ليست ضعيفة
+Dialogue: 0,0:02:53.78,0:02:56.44,Song_en,,0,0,0,,{\pos(643,79)}sukoshi dake fumidashite ikou yo
+Dialogue: 0,0:02:53.78,0:02:56.44,Song_ar,,0,0,0,,!لذلك هيا لـنأخذ خطوة صغيرة إلى الأمام
+Dialogue: 0,0:02:56.44,0:02:59.04,Song_en,,0,0,0,,{\pos(643,79)}hodokenai you ni te wo tsunaide
+Dialogue: 0,0:02:56.44,0:02:59.04,Song_ar,,0,0,0,,تمَسَّكو بأيدينا حتى لا ننفصل
+Dialogue: 0,0:02:59.04,0:03:01.80,Song_en,,0,0,0,,{\pos(643,79)}doko made mo issho ni itai no
+Dialogue: 0,0:02:59.04,0:03:01.80,Song_ar,,0,0,0,,ولنكُن معاً أينما ذهبنا
+Dialogue: 0,0:03:05.38,0:03:07.88,Song_en,,0,0,0,,{\pos(643,79)}otome gokoro hi matotte
+Dialogue: 0,0:03:05.38,0:03:07.88,Song_ar,,0,0,0,,أضيئي بشكلٍ زاهي، قلوبُ عذراااء
+Dialogue: 0,0:03:10.27,0:03:12.98,Song_en,,0,0,0,,{\pos(643,79)}kurenai, hana wo sakasete
+Dialogue: 0,0:03:10.27,0:03:12.98,Song_ar,,0,0,0,,دعي الزهور القُرمُزية تتفتّح
+Dialogue: 0,0:03:15.20,0:03:18.70,Song_en,,0,0,0,,{\pos(643,79)}otome gokoro hi matotte
+Dialogue: 0,0:03:15.20,0:03:18.70,Song_ar,,0,0,0,,أضيئي بشكلٍ زاهي، قلوبُ عذراااء
+Dialogue: 0,0:03:21.07,0:03:28.35,END,,0,0,0,,{\an8}「شُكراً لكلّ من تابع الأنمي هذا كاملاً بترجمتي, وألقاكم في أنميات أُخرى」
+Dialogue: 0,0:03:21.07,0:03:25.14,Subtitle,,0,0,0,,{\fscx100\fscy100\fad(194,100)\b1\an} avrore.blogspot.com :HerokuSubs هذا الإصدار مقدّم لكم من طرف  \N@HerokuSubs {\\c&HF4F0F0&}:تابعونا على تويتر على
+Dialogue: 0,0:03:27.12,0:03:28.00,Subtitle,,0,0,0,,.النّهاية

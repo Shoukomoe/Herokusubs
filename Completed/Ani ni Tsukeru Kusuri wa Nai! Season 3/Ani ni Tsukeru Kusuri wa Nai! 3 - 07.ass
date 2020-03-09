@@ -1,0 +1,159 @@
+﻿[Script Info]
+Title: العربية - هيروكو
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Original Script: Glenn
+Original Translation: هيروكو
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue,Cairo,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,1,2,90,90,60,1
+Style: Signs,Cairo,80,&H00000000,&H000000FF,&H00FFFFFF,&H71000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:01.60,0:00:01.85,Signs,ANIME_NAME,0,0,0,,{\an8\fnCAIRO\\c&H383A3F&\bord7\fs100\blur0.6\fscx86\fscy86\t(\bord10\fscx105\fscy105)\i1\move(960,600,960,610,26,-16)} {\c&H3AD8F3&} 3 {\c&H383A3F&}{\fsp-10]} {\fsp0}بعيداً {\c&HAEE7D4&} {\c&H000000&}خذ {\fsp0} أخي{\c&H383A3F&} {\fsp-10]} {\fsp0} أرجوك
+Dialogue: 0,0:00:01.60,0:00:01.85,Signs,ANIME_NAME,0,0,0,,{\an8\fnCAIRO\\c&H383A3F&\bord7\fs100\blur0.6\fscx86\fscy86\t(\bord10\fscx105\fscy105)\i1\move(960,600,960,610,26,-16)} {\c&H3AD8F3&} 3 {\c&H383A3F&}{\fsp-10]} {\fsp0}بعيداً {\c&HAEE7D4&} {\c&H000000&}خذ {\fsp0} أخي{\c&H383A3F&} {\fsp-10]} {\fsp0} أرجوك
+Dialogue: 1,0:00:01.85,0:00:06.36,Signs,ANIME_NAME,0,0,0,,{\an8\fnCAIRO\\c&H383A3F&\bord7\fs100\blur0.6\fscx86\fscy86\t(\bord10\fscx105\fscy105)\i1\move(960,600,960,610,26,-16)} {\c&H3AD8F3&} 3 {\c&H383A3F&}{\fsp-10]} {\fsp0}بعيداً {\c&HAEE7D4&} {\c&H000000&}خذ {\fsp0} أخي{\c&H383A3F&} {\fsp-10]} {\fsp0} أرجوك
+Dialogue: 0,0:00:01.85,0:00:06.36,Signs,ANIME_NAME,0,0,0,,{\an8\fnCAIRO\\c&H383A3F&\bord7\fs100\blur0.6\fscx86\fscy86\t(\bord10\fscx105\fscy105)\i1\move(960,600,960,610,26,-16)} {\c&H3AD8F3&} 3 {\c&H383A3F&}{\fsp-10]} {\fsp0}بعيداً {\c&HAEE7D4&} {\c&H000000&}خذ {\fsp0} أخي{\c&H383A3F&} {\fsp-10]} {\fsp0} أرجوك
+Dialogue: 2,0:00:04.73,0:00:04.77,Signs,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 740 608 l 684 762 767 567
+Dialogue: 2,0:00:04.77,0:00:04.82,Signs,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 706 796 l 787 568 731 698
+Dialogue: 2,0:00:04.82,0:00:04.86,Signs,,0,0,0,,{\an7\blur2\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 728 864 l 809 568 792 597 761 715
+Dialogue: 2,0:00:04.86,0:00:04.90,Signs,,0,0,0,,{\an7\blur3\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 774 868 l 852 499 821 583
+Dialogue: 2,0:00:04.90,0:00:04.94,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 849 557 l 822 905 850 733 862 589
+Dialogue: 2,0:00:04.94,0:00:04.98,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 886 973 l 894 397 825 266 708 412 490 680 774 432 869 428
+Dialogue: 2,0:00:04.98,0:00:05.02,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 956 1070 l 920 409 888 233 817 251 684 491 473 810 788 425 842 378 897 419
+Dialogue: 2,0:00:05.02,0:00:05.07,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1057 1078 l 893 169 496 901 876 332 901 318 1029 1027
+Dialogue: 2,0:00:05.07,0:00:05.11,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1162 1080 l 910 237 845 241 604 859 621 930 836 432 921 381 1138 1081
+Dialogue: 2,0:00:05.11,0:00:05.15,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1206 1077 l 900 210 813 281 650 838 665 920 860 392 929 397 1181 1078
+Dialogue: 2,0:00:05.15,0:00:05.19,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 932 286 l 1252 1078 1232 1077 917 346 846 456 657 965 833 289
+Dialogue: 2,0:00:05.19,0:00:05.23,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1309 1078 l 936 288 844 270 697 909 714 956 756 864 876 392 964 419 1284 1078
+Dialogue: 2,0:00:05.23,0:00:05.27,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1366 1077 l 973 361 850 300 744 820 737 956 816 738 897 400 980 449 1340 1078
+Dialogue: 2,0:00:05.27,0:00:05.32,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1418 1080 l 1002 388 840 282 774 842 766 1074 845 742 896 412 984 416 1393 1080
+Dialogue: 2,0:00:05.32,0:00:05.36,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1480 1080 l 993 354 870 286 837 357 805 834 809 1077 858 825 900 414 1009 442 1450 1077
+Dialogue: 2,0:00:05.36,0:00:05.40,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1549 1076 l 992 344 861 238 844 405 833 874 858 1072 886 853 918 418 997 418 1522 1076
+Dialogue: 2,0:00:05.40,0:00:05.44,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1605 1061 l 998 345 852 348 865 810 885 961 925 812 913 394 997 405 1586 1070
+Dialogue: 2,0:00:05.44,0:00:05.48,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1676 1056 l 972 312 753 320 185 909 781 365 884 468 896 978 914 1014 946 966 950 437 1030 428 1653 1064
+Dialogue: 2,0:00:05.48,0:00:05.53,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1776 1069 l 928 256 701 408 169 968 186 982 761 409 897 470 920 828 957 988 982 822 965 422 1078 449 1742 1076
+Dialogue: 2,0:00:05.53,0:00:05.57,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HFFFFFF&\1a&H00&}m 1793 1076 l 1016 332 737 372 88 1068 115 1067 750 414 889 433 958 1027 979 784 946 432 1056 422 1764 1073
+Dialogue: 2,0:00:05.57,0:00:05.61,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(2,2)\p1\frz0.1437\c&HFFFFFF&\1a&H00&}m 1793 1076 l 1016 332 737 372 88 1068 115 1067 750 414 889 433 958 1027 979 784 946 432 1056 422 1764 1073
+Dialogue: 2,0:00:05.61,0:00:05.65,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(2,2)\p1\frz0.283\c&HFFFFFF&\1a&H00&}m 1793 1076 l 1016 332 737 372 88 1068 115 1067 750 414 889 433 958 1027 979 784 946 432 1056 422 1764 1073
+Dialogue: 2,0:00:05.65,0:00:05.69,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(4,15)\p1\frz0.8239\c&HFFFFFF&\1a&H00&\}m 1793 1076 l 1016 332 737 372 88 1068 115 1067 750 414 889 433 958 1027 979 784 946 432 1056 422 1764 1073
+Dialogue: 2,0:00:05.69,0:00:05.73,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:05.73,0:00:05.78,Signs,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz0.3463\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:05.78,0:00:05.82,Signs,,0,0,0,,{\an7\blur6\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz0.7364\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:05.82,0:00:05.86,Signs,,0,0,0,,{\an7\blur6\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz1.086\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:05.86,0:00:05.90,Signs,,0,0,0,,{\an7\blur8\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz1.373\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:05.90,0:00:05.94,Signs,,0,0,0,,{\an7\blur8\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz1.882\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:05.94,0:00:05.98,Signs,,0,0,0,,{\an7\blur10\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz2.315\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:05.98,0:00:06.03,Signs,,0,0,0,,{\an7\blur10\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz2.648\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:06.03,0:00:06.07,Signs,,0,0,0,,{\an7\blur13\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz3.061\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:06.07,0:00:06.11,Signs,,0,0,0,,{\an7\blur14\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz3.423\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:06.11,0:00:06.15,Signs,,0,0,0,,{\an7\blur15\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz3.97\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:06.15,0:00:06.19,Signs,,0,0,0,,{\an7\blur16\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz4.245\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:06.19,0:00:06.23,Signs,,0,0,0,,{\an7\blur17\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz4.696\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:06.23,0:00:06.28,Signs,,0,0,0,,{\an7\blur18\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz5.238\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:06.28,0:00:06.32,Signs,,0,0,0,,{\an7\blur18\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz5.829\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 2,0:00:06.32,0:00:06.36,Signs,,0,0,0,,{\an7\blur20\bord0\shad0\fscx100\fscy100\pos(0,0)\org(901,232)\p1\frz6.315\c&HFFFFFF&\1a&H00&}m 187 1049 l 793 380 888 387 985 1027 995 803 936 364 1030 379 1812 1075 1835 1060 1035 347 901 232 747 366 163 1040
+Dialogue: 0,0:00:23.29,0:00:23.33,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx27.63\fscy27.63\pos(960,581)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:23.33,0:00:23.37,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx28.96\fscy28.96\pos(960,583)}VASOUADI               AWPDIAW
+Dialogue: 0,0:00:23.37,0:00:23.41,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx30.32\fscy30.32\pos(960,585.06)}ASVAOIUA               ASCOUASE
+Dialogue: 0,0:00:23.41,0:00:23.46,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx31.69\fscy31.69\pos(960,587.11)}ASCASIAO               QWPERIRU
+Dialogue: 0,0:00:23.46,0:00:23.50,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx33.05\fscy33.05\pos(960,589.16)}VOSDUVAI               ZXCOUASQ
+Dialogue: 0,0:00:23.50,0:00:23.54,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx34.38\fscy34.38\pos(960,591.16)}ASOVASUV               TEAASRAS
+Dialogue: 0,0:00:23.54,0:00:23.58,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx35.74\fscy35.74\pos(960,593.21)}ZXVSATRTI               VASAISTAY
+Dialogue: 0,0:00:23.58,0:00:23.62,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx37.1\fscy37.1\pos(960,595.26)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:23.62,0:00:23.66,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx38.43\fscy38.43\pos(960,597.27)}ASOVUAS               TQWORTIO
+Dialogue: 0,0:00:23.66,0:00:23.71,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx39.79\fscy39.79\pos(960,599.32)}GLENNNN               GLENNNN
+Dialogue: 0,0:00:23.71,0:00:23.75,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx41.16\fscy41.16\pos(960,601.37)}XPCVXOPI               SOAUFOAY
+Dialogue: 0,0:00:23.75,0:00:23.79,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx42.52\fscy42.52\pos(960,603.42)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:23.79,0:00:23.83,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx43.85\fscy43.85\pos(960,605.42)}QWRASTY               FORTUNES
+Dialogue: 0,0:00:23.83,0:00:23.87,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx45.21\fscy45.21\pos(960,607.48)}SHOCKING               LIGHTNING
+Dialogue: 0,0:00:23.87,0:00:23.91,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx46.57\fscy46.57\pos(960,609.53)}TYPHOON               SURVIVOR
+Dialogue: 0,0:00:23.91,0:00:23.96,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx47.9\fscy47.9\pos(960,611.53)}TONKETSU               ELEPHANT
+Dialogue: 0,0:00:23.96,0:00:24.00,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx49.26\fscy49.26\pos(960,613.58)}ALLCAPSED               TEMPTEXT
+Dialogue: 0,0:00:24.00,0:00:24.04,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx50.63\fscy50.63\pos(960,615.63)}ASDOUGA               ASVASOUF
+Dialogue: 0,0:00:24.04,0:00:24.08,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx51.99\fscy51.99\pos(960,617.68)}TAOLDSUT               VOAUVUYA
+Dialogue: 0,0:00:24.08,0:00:24.12,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx53.32\fscy53.32\pos(960,619.69)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:24.12,0:00:24.17,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx54.68\fscy54.68\pos(960,621.74)}QWRAXFG               XXAFAAXX
+Dialogue: 0,0:00:24.17,0:00:24.21,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx56.04\fscy56.04\pos(960,623.79)}TSDASDTA               BOASDYAA
+Dialogue: 0,0:00:24.21,0:00:24.25,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx57.37\fscy57.37\pos(960,625.79)}RTWASOU               VASOYUGI
+Dialogue: 0,0:00:24.25,0:00:24.29,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx58.73\fscy58.73\pos(960,627.84)}SCHOOLCO               MEDYANIME
+Dialogue: 0,0:00:24.29,0:00:24.33,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx60.09\fscy60.09\pos(960,629.9)}BUBLEGUM               HORSESHIT
+Dialogue: 0,0:00:24.33,0:00:24.37,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx61.42\fscy61.42\pos(960,631.9)}ASVIAYSIA               AASOUASF
+Dialogue: 0,0:00:24.37,0:00:24.42,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx62.79\fscy62.79\pos(960,633.95)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:24.42,0:00:24.46,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx64.15\fscy64.15\pos(960,636)}VAXFASFA               HSXAFAW
+Dialogue: 0,0:00:24.46,0:00:24.50,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx65.51\fscy65.51\pos(960,638.05)}OVUASOU               KINGMAN
+Dialogue: 0,0:00:24.50,0:00:24.54,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx66.84\fscy66.84\pos(960,640.06)}ASVASFOA               CXBASDAY
+Dialogue: 0,0:00:24.54,0:00:24.58,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx68.2\fscy68.2\pos(960,642.11)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:24.58,0:00:24.62,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx69.56\fscy69.56\pos(960,644.16)}SAOFHOUS               BOUOASY
+Dialogue: 0,0:00:24.62,0:00:24.67,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx70.89\fscy70.89\pos(960,646.16)}BLASPHEMY               DUMPLING
+Dialogue: 0,0:00:24.67,0:00:24.71,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx72.26\fscy72.26\pos(960,648.21)}ANYTIMES               DOUBLEGUN
+Dialogue: 0,0:00:24.71,0:00:24.75,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx73.62\fscy73.62\pos(960,650.26)}SNABELEN               DROMEDAR
+Dialogue: 0,0:00:24.75,0:00:24.79,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx74.98\fscy74.98\pos(960,652.32)}HIDDDDEN               SENTENCE
+Dialogue: 0,0:00:24.79,0:00:24.83,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx76.31\fscy76.31\pos(960,654.32)}RIGHTHAN               DEGNOMES
+Dialogue: 0,0:00:24.83,0:00:24.87,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx77.67\fscy77.67\pos(960,656.37)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:24.87,0:00:24.92,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx79.03\fscy79.03\pos(960,658.42)}VASGAYZY               RTSYSDUY
+Dialogue: 0,0:00:24.92,0:00:24.96,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx80.36\fscy80.36\pos(960,660.42)}ASDFGZXG               WRAZXSR
+Dialogue: 0,0:00:24.96,0:00:25.00,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx81.73\fscy81.73\pos(960,662.48)}REQASAA               OPENTHEGA
+Dialogue: 0,0:00:25.00,0:00:25.04,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx83.09\fscy83.09\pos(960,664.53)}VSAVASGF               PIASUOUA
+Dialogue: 0,0:00:25.04,0:00:25.08,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx84.45\fscy84.45\pos(960,666.58)}BSDKOYAI               BADOUGHB
+Dialogue: 0,0:00:25.08,0:00:25.12,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx85.78\fscy85.78\pos(960,668.58)}ASOGUAO               HPIAUSAA
+Dialogue: 0,0:00:25.12,0:00:25.17,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx87.14\fscy87.14\pos(960,670.63)}WETTSHIRT               CONTEST
+Dialogue: 0,0:00:25.17,0:00:25.21,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx88.5\fscy88.5\pos(960,672.68)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:25.21,0:00:25.25,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx89.83\fscy89.83\pos(960,674.69)}SIBLINGSS               GASOGUA
+Dialogue: 0,0:00:25.25,0:00:25.29,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx91.2\fscy91.2\pos(960,676.74)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:25.29,0:00:25.33,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx92.56\fscy92.56\pos(960,678.79)}OASFUASI               BVASDTAW
+Dialogue: 0,0:00:25.33,0:00:25.37,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx93.89\fscy93.89\pos(960,680.79)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:25.37,0:00:25.42,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx95.25\fscy95.25\pos(960,682.84)}QWRTOYAI               BSGASYAS
+Dialogue: 0,0:00:25.42,0:00:25.46,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx96.61\fscy96.61\pos(960,684.9)}OASUTOAU               BSDIUIAOY
+Dialogue: 0,0:00:25.46,0:00:25.50,Signs,UNKNOWN_WORDS,0,0,0,,{\an8\fscx97.97\fscy97.97\pos(960,686.95)}SKOIULAM               DIUAKSMU
+Dialogue: 0,0:00:25.50,0:00:25.71,Signs,EP_TITLE,0,0,0,,{\an8\fscx100\fscy100\t(\fscx106\fscy106)\pos(1000,685)}مكياج                                            الوجه
+Dialogue: 0,0:00:25.71,0:00:26.08,Signs,EP_TITLE,0,0,0,,{\an8\fscx106\fscy106\t(\fscx102\fscy102)\pos(1000,685)}مكياج                                            الوجه
+Dialogue: 0,0:00:26.08,0:00:28.01,Signs,EP_TITLE,0,0,0,,{\an8\fscx102\fscy102\pos(1000,685)}مكياج                                            الوجه
+Dialogue: 1,0:03:25.10,0:03:30.06,Signs,ANIME_NAME,0,0,0,,{\an8\fnCAIRO\\c&H383A3F&\bord7\fs100\blur0.6\fscx86\fscy86\t(\bord10\fscx105\fscy105)\i1\move(960,600,960,610,26,-16)} {\c&H3AD8F3&} 3 {\c&H383A3F&}{\fsp-10]} {\fsp0}بعيداً {\c&HAEE7D4&} {\c&H000000&}خذ {\fsp0} أخي{\c&H383A3F&} {\fsp-10]} {\fsp0} أرجوك
+Dialogue: 0,0:03:25.10,0:03:30.06,Signs,ANIME_NAME,0,0,0,,{\an8\fnCAIRO\\c&H383A3F&\bord7\fs100\blur0.6\fscx86\fscy86\t(\bord10\fscx105\fscy105)\i1\move(960,600,960,610,26,-16)} {\c&H3AD8F3&} 3 {\c&H383A3F&}{\fsp-10]} {\fsp0}بعيداً {\c&HAEE7D4&} {\c&H000000&}خذ {\fsp0} أخي{\c&H383A3F&} {\fsp-10]} {\fsp0} أرجوك
+Dialogue: 0,0:00:42.79,0:00:45.78,Dialogue,Miao,0,0,0,,.شي ماو، أنت لستِ أنثوية كفاية
+Dialogue: 0,0:00:45.94,0:00:48.01,Dialogue,Mao,0,0,0,,هل تعتقدين ذلك؟
+Dialogue: 0,0:00:48.01,0:00:52.37,Dialogue,Miao,0,0,0,,.ألم تفهمِ الأمر؟ كاي شين لن يراكِ أبدا كامرأة هكذا
+Dialogue: 0,0:00:52.70,0:00:56.70,Dialogue,Miao,0,0,0,,,لو كنت تبدين أكثر شبهاً بالسيّدات\N!فسوف فستتمكنين من جعل قلبه يتخطى النبض
+Dialogue: 0,0:01:00.57,0:01:03.93,Dialogue,Miao,0,0,0,,هذه أسلحة الفتيات. ليس اللكمات أو الركلات، حسنا؟
+Dialogue: 0,0:01:03.93,0:01:07.54,Dialogue,Mao,0,0,0,,...أعتقد أنني أصغر قليلاً للتجميل
+Dialogue: 0,0:01:07.54,0:01:10.18,Dialogue,Miao,0,0,0,,!لا! الجميع يستخدمه
+Dialogue: 0,0:01:10.18,0:01:13.67,Dialogue,Miao,0,0,0,,.انظري، هناك مقاطع الفيديو عبر الإنترنت حول كيفية تطبيقها
+Dialogue: 0,0:01:25.21,0:01:26.86,Dialogue,Miao,0,0,0,,!هيا يمكنكِ فعل ذلك
+Dialogue: 0,0:01:39.25,0:01:41.88,Dialogue,Miao,0,0,0,,ربما هل يمكننا إمساك عيون كاي شين بطريقة أخرى؟
+Dialogue: 0,0:01:41.88,0:01:44.01,Dialogue,Mao,0,0,0,,! {\i1}خرقاء{\i0}أنت تعرفين أنني
+Dialogue: 0,0:01:44.34,0:01:48.55,Dialogue,Mao,0,0,0,,!إذا وجهت شيئًا حادًا إلى عيني، فسوف أطعن نفسي بالتأكيد
+Dialogue: 0,0:01:48.98,0:01:53.29,Dialogue,Mao,0,0,0,,!فقط انظري! لا أستطيع حتى رسم دائرة
+Dialogue: 0,0:01:53.65,0:01:56.72,Dialogue,Miao,0,0,0,,!مهلا! إذا قمتِ بهذا فسوف تكسرينه
+Dialogue: 0,0:01:57.69,0:01:59.48,Dialogue,Mao,0,0,0,,...أنا خرقاء جدا
+Dialogue: 0,0:02:05.19,0:02:06.36,Dialogue,Fen,0,0,0,,بحق الجحيم هذا؟
+Dialogue: 0,0:02:06.36,0:02:08.59,Dialogue,Miao,0,0,0,,.هذا لأنوثة شي ماو
+Dialogue: 0,0:02:09.87,0:02:11.13,Dialogue,Mao,0,0,0,,.دعني أرى عينيك
+Dialogue: 0,0:02:11.13,0:02:13.40,Dialogue,Fen,0,0,0,,مهلاً انتظري! لماذا علي أن أفعل هذا!؟
+Dialogue: 0,0:02:12.87,0:02:15.58,Dialogue,Mao,0,0,0,,{\an8}.لأننا أشقّاء! لدينا نفس البشرة
+Dialogue: 0,0:02:15.19,0:02:17.54,Dialogue,Fen,0,0,0,,!...مهلاً , مهلاً, مهلاً, مهلاً
+Dialogue: 0,0:02:17.87,0:02:19.46,Dialogue,Fen,0,0,0,,!عيني
+Dialogue: 0,0:02:19.66,0:02:21.17,Dialogue,Mao,0,0,0,,.هذا لا يؤلمني
+Dialogue: 0,0:02:21.17,0:02:23.61,Dialogue,Fen,0,0,0,,قلت توقفي! أي نوع من التعذيب هذا؟
+Dialogue: 0,0:02:25.25,0:02:26.62,Dialogue,Mao,0,0,0,,!هذا لا يؤلمني
+Dialogue: 0,0:02:28.38,0:02:31.99,Dialogue,Miao,0,0,0,,حسنًا، لقد تم ذلك. تريدين وضع شعرٍ مستعار عليه؟
+Dialogue: 0,0:02:41.39,0:02:43.64,Dialogue,Fen,0,0,0,,أهذا...أنا؟
+Dialogue: 0,0:02:46.71,0:02:48.53,Dialogue,Mao,0,0,0,,!ثمّة شخص هنا
+Dialogue: 0,0:02:48.65,0:02:49.83,Dialogue,Mao,0,0,0,,!آتية
+Dialogue: 0,0:02:49.83,0:02:50.57,Dialogue,Fen,0,0,0,,.انتظري
+Dialogue: 0,0:02:51.91,0:02:53.51,Dialogue,Fen,0,0,0,,!سأفتح أنا الباب
+Dialogue: 0,0:02:53.51,0:02:54.96,Dialogue,Mao,0,0,0,,!مهلاً انتظر
+Dialogue: 0,0:02:57.70,0:02:59.43,Dialogue,Xin,0,0,0,,مرحبا، شي فــ
+Dialogue: 0,0:03:04.62,0:03:05.42,Dialogue,Xin,0,0,0,,.مرحبا
+Dialogue: 0,0:03:12.61,0:03:13.65,Dialogue,Xin,0,0,0,,.شي مياو
+Dialogue: 0,0:03:14.25,0:03:16.28,Dialogue,Xin,0,0,0,,من كان ذلك الآن؟
+Dialogue: 0,0:03:17.75,0:03:19.52,Dialogue,Mao,0,0,0,,{\i1}!نعم
+Dialogue: 0,0:03:19.75,0:03:23.40,Dialogue,Mao,0,0,0,,{\i1}!لقد جعلت قلب كاي شين يتخطى النبض
+Dialogue: 0,0:03:23.40,0:03:26.02,Dialogue,Miao,0,0,0,,!لا، شي ماو! لم يكن هذا هدفنا
+Dialogue: 0,0:03:26.02,0:03:28.79,Dialogue,Miao,0,0,0,,!لم يكن هذا هدفنا
